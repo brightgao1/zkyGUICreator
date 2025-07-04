@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__14-04-49.txt', LF will be replaced by CRLF the next time Git touches it
+[master c0c718e] BrightEditor autopush 14:04:49 7/4/2025 CST
+ 21 files changed, 31 insertions(+), 5 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__14-04-49.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-45__485__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-45__573__6
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-46__685__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-46__941__6
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-47__133__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-47__342__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-47__500__6
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-48__574__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-48__765__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-49__295__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-49__816__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-49__834__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-49__872__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-49__896__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-49__931__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-49__975__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-50__47__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-50__5__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__14-04-50__68__Ctrl
+To https://github.com/brightgao1/zkyGUICreator.git
+   2f7d2e3..c0c718e  master -> master
