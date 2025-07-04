@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__15-31-25.txt', LF will be replaced by CRLF the next time Git touches it
+[master f28bc6a] BrightEditor autopush 15:31:25 7/4/2025 CST
+ 21 files changed, 56 insertions(+), 10 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__15-31-25.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-20__971__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-21__299__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-21__34__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-21__452__,
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-21__746__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-21__969__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-22__113__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-22__244__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-22__497__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-23__250__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-23__64__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-23__666__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-23__811__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-24__347__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-24__564__,
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-24__922__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-25__138__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-25__287__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__15-31-25__562__Backspace
+To https://github.com/brightgao1/zkyGUICreator.git
+   bdc320c..f28bc6a  master -> master
