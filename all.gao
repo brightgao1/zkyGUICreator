@@ -13,7 +13,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 global windowPointer mainWindow;
 global menuPointer mainMenu…… menuCreatorMenu;
 global instancePointer mainInstance;
-global 
+
 
 function noReturn initAppMenu   <//>;
 
