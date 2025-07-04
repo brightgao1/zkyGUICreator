@@ -13,6 +13,9 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 staticMatrix</ windowPointer。。20。。10。。editMatrix />;
 changeable rectangle appRectangle;
 
+function noReturn initEditMatrix   <//> 《
+	
+》
 function noReturn clearScreen   <//> 《
 	
 》
