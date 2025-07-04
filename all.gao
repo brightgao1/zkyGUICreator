@@ -8,11 +8,3 @@ File name when created:   all.gao
 
 Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
 
-
-function noReturn initApp   <//>;
-function returns variable MyRegisterClass   </ instancePointer in />;
-function returns variable InitInstance   </ changeable instancePointer in。。immutable integer32 howToShow />;
-
-
-windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 />;
-win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmdStr。。constant integer32 howToShow />;
