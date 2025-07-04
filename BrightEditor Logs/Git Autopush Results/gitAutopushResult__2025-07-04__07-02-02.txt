@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__07-01-57.txt', LF will be replaced by CRLF the next time Git touches it
+[master 89826d1] BrightEditor autopush 07:01:57 7/4/2025 CST
+ 21 files changed, 39 insertions(+), 7 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__07-01-57.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-52__730__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-52__875__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-53__12__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-53__675__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-54__100__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-54__571__Z
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-54__667__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-54__698__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-54__883__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-55__276__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-55__411__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-55__540__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-55__659__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-55__818__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-55__926__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-56__212__Z
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-56__383__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-56__412__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__07-01-56__519__Space
+To https://github.com/brightgao1/zkyGUICreator.git
+   861e18b..89826d1  master -> master
