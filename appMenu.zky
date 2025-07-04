@@ -9,4 +9,4 @@ File name when created:   appMenu.zky
 Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
 
 
-function noReturn 
+function noReturn initAppMenu   <//> 
