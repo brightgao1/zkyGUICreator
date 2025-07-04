@@ -22,7 +22,7 @@ function noReturn clearScreen   <//> 《
 	】
 》
 function noReturn goToOutputDirectory   <//> 《
-
+	
 》
 function noReturn goToMenuCreator   <//> 《
 	getRectangle</ mainWindow。。appRectangle />;
