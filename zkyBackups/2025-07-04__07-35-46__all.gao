@@ -1,0 +1,17 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     06:58:33 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   all.gao
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+
+global unicodeString test stores unicodeLiteral</ hiiii />;
+
+global windowPointer mainWindow;
