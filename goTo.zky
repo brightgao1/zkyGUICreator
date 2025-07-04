@@ -26,7 +26,7 @@ function noReturn goToOutputDirectory   <//> 《
 	
 》
 function noReturn goToMenuCreator   <//> 《
-	getRectangle</ mainWindow。。appRectangle /> 》》做Anniu</ createMenuButton。。unicodeLiteral</ Create zky Menu />。。appRectangle get right minus 100。。appRectangle get bottom minus 60。。80。。40。。mainWindow。。null />;
+	getRectangle</ mainWindow。。appRectangle /> 》》做Anniu</ createMenuButton。。unicodeLiteral</ Create zky Menu />。。appRectangle get right minus 120。。appRectangle get bottom minus 70。。105。。55。。mainWindow。。null />;
 	positiveInteger16 currX stores 10…… currY stores 10;
 	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| 【
 		· |[(editMatrix atIndex</ r />)atIndex</ c /> isEqualTo?? null]| 做Edit</ (editMatrix atIndex</ r />) atIndex</ c />。。currX。。currY。。100。。25。。mainWindow />;   
