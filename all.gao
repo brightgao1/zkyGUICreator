@@ -11,6 +11,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
 global unicodeString test;
 global windowPointer mainWindow;
+global 
 
 function noReturn initAppMenu   <//>;
 
