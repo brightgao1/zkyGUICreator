@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-27-35.txt', LF will be replaced by CRLF the next time Git touches it
+[master 8e266a0] BrightEditor autopush 16:27:35 7/4/2025 CST
+ 23 files changed, 63 insertions(+), 14 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-27-35.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__280__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__448__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__593__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__720__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__808__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__88__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__897__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-32__976__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-33__672__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-33__840__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-33__937__L
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-34__361__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-34__56__L
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-34__593__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-34__641__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-34__835__;
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-34__920__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-34__993__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-27-35__521__F5
+To https://github.com/brightgao1/zkyGUICreator.git
+   222fb38..8e266a0  master -> master
