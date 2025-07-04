@@ -24,7 +24,7 @@ function noReturn goToMenuCreator   <//> 《
 	positiveInteger16 currX stores 10…… currY stores 10;
 	一》|[r。。editMatrix elementCount]| 【
 		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
-			做Edit
+			做Edit</ 
 		】
 	】
 》
