@@ -45,7 +45,7 @@ function returns variable InitInstance   </ changeable instancePointer in。。i
    	zuo</ tmp。。mainWindowClassStr pointer。。null。。WS_OVERLAPPEDWINDOW。。[! positiveInteger16 !]50。。[! positiveInteger16 !]50。。[! positiveInteger16 !]800。。[! positiveInteger16 !]600。。null />;
    	mainWindow stores [! windowPointer !]tmp 》》ShowWindow</ mainWindow。。howToShow/> 》》UpdateWindow</ mainWindow />;
    	initApp<//>;
-		
+	
    	一一 [! integer32 !]1;
 》
 win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmdStr。。constant integer32 howToShow/> 《    	
