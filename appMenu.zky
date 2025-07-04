@@ -11,6 +11,6 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 加    all.gao;
 
 function noReturn initAppMenu   <//>  《
-	addDropdownMenu</ mainMenu。。menuCreatorMenu。。unicodeLiteral</ 
+	addDropdownMenu</ mainMenu。。menuCreatorMenu。。unicodeLiteral</ Create Menu />;
 	
 》
