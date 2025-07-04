@@ -15,4 +15,4 @@ function returns variable InitInstance   </ changeable instancePointer in。。i
 
 function noReturn initAppMenu   <//>;
 windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。positiveInteger32Pointer parameter1。。integer64Pointer parameter2 />;
-win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmd
+win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmdStr。。constant integer32 howToShow />;
