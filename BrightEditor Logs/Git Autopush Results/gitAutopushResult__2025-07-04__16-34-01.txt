@@ -1,0 +1,4 @@
+error: short read while indexing main.zky
+error: main.zky: failed to insert into database
+error: unable to index file 'main.zky'
+fatal: updating files failed
