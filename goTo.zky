@@ -22,8 +22,8 @@ function noReturn goToOutputDirectory   <//> 《
 function noReturn goToMenuCreator   <//> 《
 	getRectangle</ mainWindow。。appRectangle />;
 	positiveInteger16 currX stores 10…… currY stores 10;
-	一》|[r。。menuMatrix elementCount]| 【
-		 一》|[c。。(menuMatrix atIndex</ r />) elementCount ]| 【
+	一》|[r。。editMatrix elementCount]| 【
+		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
 			
 		】
 	】
