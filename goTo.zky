@@ -28,12 +28,12 @@ function noReturn goToMenuCreator   <//> 《
 	getRectangle</ mainWindow。。appRectangle />;
 	positiveInteger16 currX stores 10…… currY stores 10;
 	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| 【
-		· |[(editMatrix atIndex</ r />)atIndex</ c /> isEqualTo?? null]| 做Edit</ (editMatrix atIndex</ r />) atIndex</ c />。。currX。。currY。。30。。30。。mainWindow />;   
+		· |[(editMatrix atIndex</ r />)atIndex</ c /> isEqualTo?? null]| 做Edit</ (editMatrix atIndex</ r />) atIndex</ c />。。currX。。currY。。30。。25。。mainWindow />;   
 	】
 	一》|[r。。editMatrix elementCount]| 【
 		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
 			variable box stores (editMatrix atIndex</ r />) atIndex</ c />;
-			MoveWindow</ box。。currX。。currY。。30。。30。。0 /> 》》currX storesItselfPlus</ 50 />;
+			MoveWindow</ box。。currX。。currY。。30。。25。。0 /> 》》currX storesItselfPlus</ 50 />;
 			show</ box />;
 		】
 		currY storesItselfPlus</ 30 /> 》》currX stores 10;
