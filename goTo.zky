@@ -44,5 +44,5 @@ function noReturn goToGuiCreator   <//> 《
 	
 》
 function noReturn createMenuButtonClicked   <//> 《
-	
+	alert</ fileMenuStr pointer />;
 》
