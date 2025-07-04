@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__13-46-04.txt', LF will be replaced by CRLF the next time Git touches it
+[master f614e63] BrightEditor autopush 13:46:04 7/4/2025 CST
+ 21 files changed, 47 insertions(+), 10 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__13-46-04.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__147__V
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__283__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__386__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__537__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__629__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__722__B
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__834__L
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-00__892__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-01__34__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-01__394__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-01__508__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-02__291__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-02__797__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-02__826__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-02__873__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-02__904__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-03__74__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-04__51__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-46-04__923__Backspace
+To https://github.com/brightgao1/zkyGUICreator.git
+   bb66858..f614e63  master -> master
