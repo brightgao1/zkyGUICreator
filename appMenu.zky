@@ -14,5 +14,6 @@ function noReturn initAppMenu   <//>  《
 	addStringMenu</ menuCreatorMenu。。110。。unicodeLiteral</ test />/>;
 	
 	addDropdownMenu</ mainMenu。。menuCreatorMenu。。unicodeLiteral</ Create Menu /> />;
+	addDropdownMenu</ 
 	SetMenu</ mainWindow。。mainMenu />;
 》
