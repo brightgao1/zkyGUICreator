@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__13-55-54.txt', LF will be replaced by CRLF the next time Git touches it
+[master ed43df1] BrightEditor autopush 13:55:54 7/4/2025 CST
+ 22 files changed, 38 insertions(+), 12 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__13-55-54.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__159__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__238__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__23__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__277__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__454__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__623__W
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__813__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__853__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-50__941__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__102__W
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__14__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__367__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__425__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__568__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__694__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__806__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-51__879__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-54__840__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-54__910__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__13-55-54__990__I
+To https://github.com/brightgao1/zkyGUICreator.git
+   c9b73f4..ed43df1  master -> master
