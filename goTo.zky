@@ -26,7 +26,7 @@ function noReturn goToMenuCreator   <//> 《
 	一》|[r。。editMatrix elementCount]| 【
 		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
 			variable box stores (editMatrix atIndex</ r />) atIndex</ c />;
-			move</ box。。currX。。currY。。30。。30 /> 》》
+			move</ box。。currX。。currY。。30。。30 /> 》》currX storesItselfPlus</ 
 		】
 	】
 》
