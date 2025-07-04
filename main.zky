@@ -12,7 +12,8 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
 nonConstant instancePointer mainInstance;
 changeable windowPointer mainWindow；
-changeable menuPointer mainMenu stores 做Menu…… menuCreatorMenu;
+changeable menuPointer menuCreatorMenu;
+unicodeString test;
 
 immutable unicodeString mainWindowClassStr stores unicodeLiteral</ The Main Window Class Name! />;
 
