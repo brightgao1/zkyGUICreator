@@ -1,0 +1,47 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     14:17:30 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   goTo.zky
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+ 加    	 	all.gao;
+
+staticMatrix</ windowPointer。。20。。10。。editMatrix />;
+changeable rectangle appRectangle;
+
+function noReturn initEditMatrix   <//> 《
+	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| (editMatrix atIndex</ r />) atIndex</ c /> stores null;
+》
+function noReturn clearScreen   <//> 《
+	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| 【
+		hide</ (editMatrix atIndex</ r />) atIndex</ c /> />;
+	】
+》
+function noReturn goToOutputDirectory   <//> 《
+
+》
+function noReturn goToMenuCreator   <//> 《
+	getRectangle</ mainWindow。。appRectangle />;
+	positiveInteger16 currX stores 10…… currY stores 10;
+	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| 【
+		· |[(editMatrix atIndex</ r />)atIndex</ c /> isEqualTo?? null]| 做Edit</ (editMatrix atIndex</ r />) atIndex</ c />。。currX。。currY。。30。。30。。mainWindow />;   
+	】
+	一》|[r。。editMatrix elementCount]| 【
+		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
+			variable box stores (editMatrix atIndex</ r />) atIndex</ c />;
+			MoveWindow</ box。。currX。。currY。。30。。30。。0 /> 》》currX storesItselfPlus</ 50 />;
+			show</ box />;
+		】
+		currY storesItselfPlus</ 50 /> 》》currX stores 10;
+	】
+》
+function noReturn goToGuiCreator   <//> 《
+	
+》
