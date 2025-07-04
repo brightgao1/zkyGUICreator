@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-33-20.txt', LF will be replaced by CRLF the next time Git touches it
+[master 4bd22f3] BrightEditor autopush 16:33:20 7/4/2025 CST
+ 23 files changed, 54 insertions(+), 17 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-33-20.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-16__279__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-16__392__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-16__433__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-16__81__B
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-17__288__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-17__346__,
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-17__610__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-17__850__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-17__930__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-18__649__P
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-18__692__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-18__826__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-18__913__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-19__498__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-19__563__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-19__665__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-19__771__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-19__849__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-20__81__1
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-33-20__828__Space
+To https://github.com/brightgao1/zkyGUICreator.git
+   649617c..4bd22f3  master -> master
