@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-22-20.txt', LF will be replaced by CRLF the next time Git touches it
+[master ce5111a] BrightEditor autopush 16:22:20 7/4/2025 CST
+ 23 files changed, 68 insertions(+), 17 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-22-20.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-16__223__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-16__268__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-16__561__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-16__65__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-16__665__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-16__897__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__106__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__185__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__18__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__322__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__405__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__578__B
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__785__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__849__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-17__977__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-18__12__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-18__57__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-19__497__;
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-19__595__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-22-19__657__S
+To https://github.com/brightgao1/zkyGUICreator.git
+   4777c35..ce5111a  master -> master
