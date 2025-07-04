@@ -13,6 +13,8 @@ global unicodeString test;
 global windowPointer mainWindow;
 
 function noReturn initAppMenu   <//>;
+
+function noReturn initApp   <//>;
 windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 />;
 
 
