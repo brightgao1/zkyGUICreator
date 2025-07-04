@@ -33,7 +33,7 @@ function noReturn goToMenuCreator   <//> 《
 	一》|[r。。editMatrix elementCount]| 【
 		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
 			variable box stores (editMatrix atIndex</ r />) atIndex</ c />;
-			MoveWindow</ box。。currX。。currY。。30。。25。。0 /> 》》currX storesItselfPlus</ 50 />;
+			MoveWindow</ box。。currX。。currY。。30。。25。。0 /> 》》currX storesItselfPlus</ 150 />;
 			show</ box />;
 		】
 		currY storesItselfPlus</ 30 /> 》》currX stores 10;
