@@ -1,10 +1,10 @@
-Keypress frequency for each key over the lifetime of the BrightEditor project in C:\Users\brigh\Documents\zkyProjects\zkyGUICreator as of 16:24:20 , 7/4/2025
+Keypress frequency for each key over the lifetime of the BrightEditor project in C:\Users\brigh\Documents\zkyProjects\zkyGUICreator as of 16:24:25 , 7/4/2025
 
 Key Name     Amount of times it was pressed in BrightEditor
 
 Backspace     1,960
 Caps Lock     8
-Ctrl     1,028
+Ctrl     1,029
 Down     896
 Enter     127
 F5     103
@@ -13,15 +13,15 @@ Left Windows     17
 Page Down     12
 Page Up     8
 Right     1,398
-Shift     976
-Space     929
+Shift     979
+Space     931
 Tab     135
 Up     758
 
-,     135
+,     136
 -     1
 .     331
-/     245
+/     246
 0     60
 1     34
 2     24
@@ -34,27 +34,27 @@ Up     758
 9     12
 ;     94
 =     1
-A     328
-B     46
-C     201
-D     150
-E     566
+A     329
+B     47
+C     202
+D     151
+E     570
 F     147
 G     99
-H     27
-I     374
+H     28
+I     375
 J     13
 K     6
 L     199
-M     168
-N     419
-O     276
+M     169
+N     421
+O     277
 P     122
 Q     6
-R     374
-S     954
-T     420
-U     254
+R     375
+S     955
+T     423
+U     256
 V     38
 W     60
 X     45
