@@ -53,8 +53,8 @@ function returns variable InitInstance   </ changeable instancePointer in。。i
 》
 win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmdStr。。constant integer32 howToShow/> 《    	
    	MyRegisterClass</ in />; changeable MSG msg;
-    	· |[ negation (InitInstance</ in。。howToShow />) ]| 一一 [! integer16 !]0;
-    	
+    	· |[ negation (InitInstance</ in。。howToShow />) ]| 一一 [! integer16 !]0;    	
+
     	口 |[ GetMessage</ &msg。。null。。 0。。 0 /> ]| 【
      		· |[ ([! integer32 !]TranslateAccelerator</ msg.hwnd。。null。。&msg />) isEqualTo?? [! integer16 !]0 ]| TranslateMessage</ &msg /> 》》DispatchMessage</ &msg />;
     	】
