@@ -28,7 +28,7 @@ windowHandler WndProc   </ changeable windowPointer window。。nonMutable posit
     · |[ message isEqualTo?? WM_COMMAND ]| 【
     	positiveInteger16 menuID stores last16Bits</ parameter1 />;
 	· |[ first16Bits</ parameter1 /> isEqualTo?? BN_CLICKED ]| 【
-		variable b stores 
+		variable b stores [! windowPointer !]
 	】
 	· |[menuID isEqualTo?? 500 ]| clearScreen<//> 》》goToOutputDirectory<//>;
 	··· |[ menuID isEqualTo?? 1000 ]| clearScreen<//> 》》goToMenuCreator<//>;
