@@ -28,7 +28,7 @@ function noReturn goToMenuCreator   <//> 《
 			variable box stores (editMatrix atIndex</ r />) atIndex</ c />;
 			move</ box。。currX。。currY。。30。。30 /> 》》currX storesItselfPlus</ 50 />;
 		】
-		currY storesItselfPlus</ 
+		currY storesItselfPlus</ 50 />;
 	】
 》
 function noReturn goToGuiCreator   <//> 《
