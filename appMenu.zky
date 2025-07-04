@@ -11,10 +11,10 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 加    all.gao;
 
 function noReturn initAppMenu   <//>  《	
-	addDropdownMenu</ mainMenu。。menuCreatorMenu。。unicodeLiteral</ Create Menu /> />;
+	addDropdownMenu</ mainMenu。。menuCreatorMenu。。unicodeLiteral</ Create Nav Bar /> />;
 	addDropdownMenu</ mainMenu。。guiCreatorMenu。。unicodeLiteral</ Create GUI /> />;
 	
-	addStringMenu</ menuCreatorMenu。。110。。unicodeLiteral</  />/>;
+	addStringMenu</ menuCreatorMenu。。110。。unicodeLiteral</ Create zky Navigation Bar />/>;
 
 	addStringMenu</ guiCreatorMenu。。200。。unicodeLiteral</ aaa /> />;
 		
