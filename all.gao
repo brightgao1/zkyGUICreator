@@ -9,7 +9,7 @@ File name when created:   all.gao
 Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
 
 
-global unicodeString test;
+
 global windowPointer mainWindow;
 global menuPointer mainMenu…… menuCreatorMenu;
 
