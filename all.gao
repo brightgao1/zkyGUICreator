@@ -28,6 +28,7 @@ win32Entry   </ nonConstant instancePointer in。。changeable instancePointer p
 
 
 function noReturn clearScreen   <//>;
+function noReturn initEditMatrix   <//>;
 function noReturn goToOutputDirectory   <//>；
 function noReturn goToMenuCreator   <//>;
 function noReturn goToGuiCreator   <//>;
