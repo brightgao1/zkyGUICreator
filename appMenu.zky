@@ -18,7 +18,7 @@ function noReturn initAppMenu   <//>  《
 	fileMenuStr storesItselfPlus</ unicodeLiteral</ file.. /> />》》menuCreatorMenuStr storesItselfPlus</ unicodeLiteral</ Create Nav Bar.. /> />;
 	guiCreatorMenuStr storesItselfPlus</ unicodeLiteral</ Create GUI.. /> />;
 	repeat|[4]| fileMenuStr addToEnd</ space /> 》》menuCreatorMenuStr addToEnd</ space /> 》》guiCreatorMenuStr addToEnd</ space />;
-	
+	 
 	addDropdownMenu</ mainMenu。。fileMenu。。fileMenuStr />;
 	addDropdownMenu</ mainMenu。。menuCreatorMenu。。menuCreatorMenuStr />;
 	addDropdownMenu</ mainMenu。。guiCreatorMenu。。guiCreatorMenuStr />;
