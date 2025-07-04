@@ -28,8 +28,8 @@ windowHandler WndProc   </ changeable windowPointer window。。nonMutable posit
     · |[ message isEqualTo?? WM_COMMAND ]| 【
     	positiveInteger16 menuID stores last16Bits</ parameter1 />;
 	· |[menuID isEqualTo?? 500 ]| clearScreen<//> 》》goToOutputDirectory<//>;
-	··· |[ menuID isEqualTo?? 1000 ]| goToMenuCreator<//>;
-	··· |[ menuID isEqualTo?? 2000 ]| goToGuiCreator<//>;
+	··· |[ menuID isEqualTo?? 1000 ]| clearScreen<//> 》》goToMenuCreator<//>;
+	··· |[ menuID isEqualTo?? 2000 ]| clearScreen<//> 》》goToGuiCreator<//>;
 	】
     ··· |[ message isEqualTo?? WM_PAINT ]| 【
         changeable PAINTSTRUCT ps;
