@@ -17,7 +17,7 @@ changeable menuPointer mainMenu stores 做Menu…… menuCreatorMenu;
 immutable unicodeString mainWindowClassStr stores unicodeLiteral</ The Main Window Class Name! />;
 
 function noReturn initApp   <//> 《
-	
+	initAppMenu<//>;
 》
 windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 /> 《
     · |[ message isEqualTo?? WM_COMMAND ]| 【
@@ -57,3 +57,4 @@ win32Entry   </ nonConstant instancePointer in。。changeable instancePointer p
     	】
 	一一 [! integer32 !]msg.wParam;
 》
+
