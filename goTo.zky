@@ -1,0 +1,33 @@
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     14:17:30 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   goTo.zky
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+ 加    	 	all.gao;
+
+staticMatrix</ windowPointer。。5。。3。。menuMatrix />;
+changeable rectangle appRectangle;
+
+function noReturn clearScreen   <//> 《
+	
+》
+function noReturn goToOutputDirectory   <//> 《
+
+》
+function noReturn goToMenuCreator   <//> 《
+	getRectangle</ mainWindow。。appRectangle />;
+	positiveInteger16 currX stores 10…… currY stores 10;
+	一》|[r。。menuMatrix elementCount]| 【
+		 一》|[c。。(menuMatrix atIndex</ r />) elementCount ]| 【
+			
+		】
+	】
+》
+function noReturn goToGuiCreator   <//> 《
+	
+》

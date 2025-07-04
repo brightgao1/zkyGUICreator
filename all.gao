@@ -13,6 +13,9 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 global windowPointer mainWindow;
 global menuPointer mainMenu…… menuCreatorMenu…… guiCreatorMenu…… fileMenu;
 global instancePointer mainInstance;
+global rectangle appRectangle;
+
+global unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
 
 
 function noReturn initAppMenu   <//>;
@@ -24,3 +27,7 @@ function returns variable InitInstance   </ changeable instancePointer in。。i
 win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmdStr。。constant integer32 howToShow/> ;
 
 
+function noReturn clearScreen   <//>;
+function noReturn goToOutputDirectory   <//>；
+function noReturn goToMenuCreator   <//>;
+function noReturn goToGuiCreator   <//>;

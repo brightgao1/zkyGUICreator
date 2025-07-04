@@ -10,8 +10,10 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
    加     	all.gao;
 
+
+
 nonConstant instancePointer mainInstance;
-changeable windowPointer mainWindow；
+changeable windowPointer mainWindow;
 changeable menuPointer menuCreatorMenu…… guiCreatorMenu…… fileMenu;
 changeable menuPointer mainMenu stores 做Menu;
 
@@ -19,12 +21,16 @@ changeable menuPointer mainMenu stores 做Menu;
 immutable unicodeString mainWindowClassStr stores unicodeLiteral</ The Main Window Class Name! />;
 
 function noReturn initApp   <//> 《
-	initAppMenu<//>;
+	initAppMenu<//>  》》renameWindow</ mainWindow。。unicodeLiteral</ zkyGUICreator /> />;
 	
 》
 windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 /> 《
     · |[ message isEqualTo?? WM_COMMAND ]| 【
-    
+    	positiveInteger16 menuID stores last16Bits</ parameter1 />;
+	clearScreen<//>;
+	· |[menuID isEqualTo?? 500 ]| goToOutputDirectory<//>;
+	··· |[ menuID isEqualTo?? 1000 ]| goToMenuCreator<//>;
+	··· |[ menuID isEqualTo?? 2000 ]| goToGuiCreator<//>;
 	】
     ··· |[ message isEqualTo?? WM_PAINT ]| 【
         changeable PAINTSTRUCT ps;
@@ -46,7 +52,7 @@ function returns variable MyRegisterClass   </ instancePointer in /> 《
 function returns variable InitInstance   </ changeable instancePointer in。。immutable integer32 howToShow /> 《
    	mainInstance stores in; changeable windowPointer tmp;
    	zuo</ tmp。。mainWindowClassStr pointer。。null。。WS_OVERLAPPEDWINDOW。。[! positiveInteger16 !]50。。[! positiveInteger16 !]50。。[! positiveInteger16 !]800。。[! positiveInteger16 !]600。。null />;
-   	mainWindow stores [! windowPointer !]tmp 》》ShowWindow</ mainWindow。。howToShow/> 》》UpdateWindow</ mainWindow />;
+   	mainWindow stores [! windowPointer !]tmp 》》ShowWindow</ mainWindow。。3/> 》》UpdateWindow</ mainWindow />;
    	initApp<//>;
 	
    	一一 [! integer32 !]1;

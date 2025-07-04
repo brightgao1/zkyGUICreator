@@ -10,14 +10,22 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
 加    all.gao;
 
-function noReturn initAppMenu   <//>  《	
-	addDropDownMenu</ mainMenu。。fileMenu。。unicodeLiteral</ file.. /> />;
-	addDropdownMenu</ mainMenu。。menuCreatorMenu。。unicodeLiteral</ Create Nav Bar.. /> />;
-	addDropdownMenu</ mainMenu。。guiCreatorMenu。。unicodeLiteral</ Create GUI.. /> />;
+unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
+
+function noReturn initAppMenu   <//>  《
+	repeat|[3]| fileMenuStr addToEnd</ space />;
+	repeat|[4]| fileMenuStr addToEnd</ space /> 》》menuCreatorMenuStr addToEnd</ space /> 》》guiCreatorMenuStr addToEnd</ space />;
+	fileMenuStr storesItselfPlus</ unicodeLiteral</ file.. /> />》》menuCreatorMenuStr storesItselfPlus</ unicodeLiteral</ Create Nav Bar.. /> />;
+	guiCreatorMenuStr storesItselfPlus</ unicodeLiteral</ Create GUI.. /> />;
+	repeat|[4]| fileMenuStr addToEnd</ space /> 》》menuCreatorMenuStr addToEnd</ space /> 》》guiCreatorMenuStr addToEnd</ space />;
+	
+	addDropdownMenu</ mainMenu。。fileMenu。。fileMenuStr />;
+	addDropdownMenu</ mainMenu。。menuCreatorMenu。。menuCreatorMenuStr />;
+	addDropdownMenu</ mainMenu。。guiCreatorMenu。。guiCreatorMenuStr />;
 	
 	addStringMenu</ fileMenu。。500。。unicodeLiteral</ Set Output Directory /> />;
 	addStringMenu</ menuCreatorMenu。。1000。。unicodeLiteral</ Create zky Navigation Bar />/>;
-	addStringMenu</ menuCreatorMenu。。1005。。unicodeLiteral</  /> />;
+	addStringMenu</ menuCreatorMenu。。1005。。unicodeLiteral</ a /> />;
 	addStringMenu</ guiCreatorMenu。。2000。。unicodeLiteral</ aaa /> />;
 	
 	SetMenu</ mainWindow。。mainMenu />;
