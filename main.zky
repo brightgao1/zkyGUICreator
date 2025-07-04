@@ -8,6 +8,7 @@ File name when created:   main.zky
 
 Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
 
+加 	  	
 
 nonConstant instancePointer mainInstance;
 changeable windowPointer mainWindow；
