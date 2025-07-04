@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-31-40.txt', LF will be replaced by CRLF the next time Git touches it
+[master ed0abd2] BrightEditor autopush 16:31:40 7/4/2025 CST
+ 21 files changed, 41 insertions(+), 3 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-04__16-31-40.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-36__321__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-36__665__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-36__97__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-37__50__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-37__923__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-38__435__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-38__465__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-38__946__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-39__130__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-39__315__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-39__459__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-39__619__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-39__770__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-39__930__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-40__116__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-40__515__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-40__690__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-40__851__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-04__16-31-41__33__Down
+To https://github.com/brightgao1/zkyGUICreator.git
+   d1e66d8..ed0abd2  master -> master
