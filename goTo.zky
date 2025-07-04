@@ -14,7 +14,7 @@ staticMatrix</ windowPointer。。20。。10。。editMatrix />;
 changeable rectangle appRectangle;
 
 function noReturn initEditMatrix   <//> 《
-	
+	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| 
 》
 function noReturn clearScreen   <//> 《
 	
