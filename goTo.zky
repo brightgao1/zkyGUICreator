@@ -36,7 +36,7 @@ function noReturn goToMenuCreator   <//> 《
 			MoveWindow</ box。。currX。。currY。。30。。30。。0 /> 》》currX storesItselfPlus</ 50 />;
 			show</ box />;
 		】
-		currY storesItselfPlus</ 50 /> 》》currX stores 10;
+		currY storesItselfPlus</ 30 /> 》》currX stores 10;
 	】
 》
 function noReturn goToGuiCreator   <//> 《
