@@ -1,0 +1,21 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     07:07:10 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   appMenu.zky
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+加    all.gao;
+
+function noReturn initAppMenu   <//>  《
+	addStringMenu</ menuCreatorMenu。。unicodeLiteral</ test />。。110 />;
+
+	addDropdownMenu</ mainMenu。。menuCreatorMenu。。unicodeLiteral</ Create Menu /> />;
+	SetMenu</ mainWindow。。mainMenu />;
+》
