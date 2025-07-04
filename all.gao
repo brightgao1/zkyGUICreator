@@ -13,3 +13,4 @@ function noReturn initApp   <//>;
 function returns variable MyRegisterClass   </ instancePointer in />;
 function returns variable InitInstance   </ changeable instancePointer in。。immutable integer32 howToShow />;
 
+
