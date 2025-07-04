@@ -43,3 +43,6 @@ function noReturn goToMenuCreator   <//> 《
 function noReturn goToGuiCreator   <//> 《
 	
 》
+function noReturn createMenuButtonClicked   <//> 《
+	
+》
