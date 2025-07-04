@@ -13,7 +13,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
 
 nonConstant instancePointer mainInstance;
-changeable windowPointer mainWindow;
+changeable windowPointer mainWindow…… 
 changeable menuPointer menuCreatorMenu…… guiCreatorMenu…… fileMenu;
 changeable menuPointer mainMenu stores 做Menu;
 
