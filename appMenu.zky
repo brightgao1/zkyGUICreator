@@ -33,7 +33,7 @@ function noReturn initAppMenu   <//>  《
 》
 function noReturn initPaths   <//> 《
 	getAppDataPath</ appDataPath /> 》》appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
-	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</  />;
+	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</ \\ />;
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
 	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]| newFile</ ADoutputDirectoryPath />;
 
