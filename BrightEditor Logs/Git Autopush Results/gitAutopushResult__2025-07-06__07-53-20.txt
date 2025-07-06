@@ -1,0 +1,50 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-53-15.txt', LF will be replaced by CRLF the next time Git touches it
+[master 8cd9b37] BrightEditor autopush 07:53:15 7/6/2025 CST
+ 46 files changed, 54 insertions(+), 4 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-53-15.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-11__663__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-11__848__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-11__985__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-12__135__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-12__304__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-12__488__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-13__456__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-13__8__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-13__964__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-13__996__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__134__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__166__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__197__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__229__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__262__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__27__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__292__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__323__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__355__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__387__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__433__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__467__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__500__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__529__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__559__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__58__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__591__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__622__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__653__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__685__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__718__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__765__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-14__89__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__594__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__625__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__656__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__689__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__720__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__751__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__797__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__815__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__81__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__847__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-53-15__876__Left
+To https://github.com/brightgao1/zkyGUICreator.git
+   f5c4199..8cd9b37  master -> master
