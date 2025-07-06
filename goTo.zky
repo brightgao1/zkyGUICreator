@@ -81,7 +81,7 @@ function noReturn createMenuButtonClicked   <//> 《
 			·· 【
 				口 |[ menuTxt atIndex</ (menuTxt elementCount) minus 1 /> isEqualTo?? space ]| menuTxt removeFromEnd;
 				· |[ menuTxt isEqualTo?? unicodeLiteral</ __LINE__ /> ]| 【
-					res storesItselfPlus</ unicodeLiteral</ Ж /> /> 》》res storesItselfPlus</ unicodeLiteral</ ف /> />;
+					res storesItselfPlus</ unicodeLiteral</ \u0416 /> /> 》》res storesItselfPlus</ unicodeLiteral</ ف /> />;
 					res storesItselfPlus</ unicodeLiteral</ < /> /> 》》res storesItselfPlus</ unicodeLiteral</ / /> />;
 					res storesItselfPlus</ menuVariableStr />;
 					
