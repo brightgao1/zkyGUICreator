@@ -11,7 +11,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 											加 all.gao;
 
 changeable unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
-changeable unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory…… 
+changeable unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory…… user
 
 function noReturn initAppMenu   <//>  《
 	repeat|[3]| fileMenuStr addToEnd</ space />;
