@@ -49,7 +49,7 @@ function noReturn initPaths   <//> 《
 		· |[ backslashesSeen isEqualTo?? 2 ]| goToNextIteration; 
 		· |[ backslashesSeen isGreaterThan?? 2 ]| userHomePath addToEnd</ appDataPath atIndex</ i /> />;
 	】
-	
+	alert</ 
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
 	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]|【
 		 newFile</ ADoutputDirectoryPath />; 
