@@ -11,7 +11,6 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
    加     	all.gao;
 
 
-
 nonConstant instancePointer mainInstance;
 changeable windowPointer mainWindow…… createMenuButton;
 changeable menuPointer menuCreatorMenu…… guiCreatorMenu…… fileMenu;
