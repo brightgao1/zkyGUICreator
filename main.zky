@@ -30,7 +30,7 @@ windowHandler WndProc   </ changeable windowPointer window。。nonMutable posit
 	· |[ first16Bits</ parameter1 /> isEqualTo?? BN_CLICKED ]| 【
 		variable b stores [! windowPointer !]parameter2;
 		· |[ b isEqualTo?? createMenuButton ]| createMenuButtonClicked<//>;
-		
+		···|[
 	】
 	· |[menuID isEqualTo?? 500 ]| clearScreen<//> 》》goToOutputDirectory<//>;
 	··· |[ menuID isEqualTo?? 1000 ]| clearScreen<//> 》》goToMenuCreator<//>;
