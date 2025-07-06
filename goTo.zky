@@ -57,7 +57,7 @@ function noReturn createMenuButtonClicked   <//> 《
 	unicodeString functionName;
 	positiveInteger16 fileNum stores 1;
 	//口 |[ pathExists</ 
-	outputFile storesItselfPlus</ .gao />;
+	outputFile storesItselfPlus</ unicodeLiteral</ .gao /> />;
 	《一 |[ i。。outputFile elementCount ]| 【
 		· |[ outputFile atIndex</ i /> isEqualTo?? '\\' ]| exitLoop;
 		functionName addToEnd</ outputFile atIndex</ i /> />;
