@@ -36,5 +36,5 @@ function noReturn initPaths   <//> 《
 	appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
 	
 	printUnicodeString appDataPath;
-	·|[ pathExists</ appDataPath /> isEqualTo?? 
+	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0
 》
