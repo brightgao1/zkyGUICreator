@@ -1,0 +1,27 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-59-01.txt', LF will be replaced by CRLF the next time Git touches it
+[master b5ed607d] BrightEditor autopush 08:59:01 7/6/2025 CST
+ 23 files changed, 60 insertions(+), 14 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-59-01.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-57__219__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-57__293__L
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-57__339__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-57__500__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-57__684__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-58__234__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-58__339__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-58__580__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-58__674__C
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-58__796__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-58__863__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-59__107__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-58-59__26__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-00__188__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-00__267__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-00__379__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-00__755__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-00__916__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-01__20__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-01__268__1
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-59-01__99__Space
+To https://github.com/brightgao1/zkyGUICreator.git
+   8b58c8d2..b5ed607d  master -> master
