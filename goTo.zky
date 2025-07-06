@@ -25,7 +25,7 @@ function noReturn clearScreen   <//> 《
 	】
 》
 function noReturn goToOutputDirectory   <//> 《
-	做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output generated zky />。。
+	做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output generated zky />。。20。。20。。200。。200。。windowPointer />;
 	做Edit</ outputDirectoryEdit。。40。。 60。。300。。30。。mainWindow />;
 	
 》
