@@ -31,6 +31,7 @@ function noReturn initAppMenu   <//>  《
 	
 	SetMenu</ mainWindow。。mainMenu />;	
 》
+function 
 function noReturn initPaths   <//> 《
 	getAppDataPath</ appDataPath /> 》》appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
 	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</ \\outputDirectory.txt />;
