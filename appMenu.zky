@@ -52,7 +52,7 @@ function noReturn initPaths   <//> 《
 	
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
 	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]|【
-		 newFile</ ADoutputDirectoryPath />; unicodeStringToFile</ ADoutputDirectoryPath。。
+		 newFile</ ADoutputDirectoryPath />; 
 	】
 	fileToUnicodeString</ ADoutputDirectoryPath。。userOutputDirectory />;
 	
