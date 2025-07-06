@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-53-56.txt', LF will be replaced by CRLF the next time Git touches it
+[master d9780788] BrightEditor autopush 08:53:56 7/6/2025 CST
+ 21 files changed, 42 insertions(+), 12 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-53-56.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-52__286__C
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-52__382__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-52__487__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-52__614__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-52__822__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-53__271__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-53__404__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-53__473__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-54__162__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-55__202__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-55__343__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-55__534__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-55__685__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-55__814__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-55__984__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-56__106__F
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-56__271__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-56__516__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-53-56__623__S
+To https://github.com/brightgao1/zkyGUICreator.git
+   b1b3d7dd..d9780788  master -> master
