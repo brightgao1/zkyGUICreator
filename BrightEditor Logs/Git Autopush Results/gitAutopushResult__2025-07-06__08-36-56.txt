@@ -1,0 +1,4 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-36-51.txt', LF will be replaced by CRLF the next time Git touches it
+error: open("zkyRelease/tmp.exe"): Permission denied
+error: unable to index file 'zkyRelease/tmp.exe'
+fatal: adding files failed
