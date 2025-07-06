@@ -38,7 +38,7 @@ function noReturn initPaths   <//> 《
 	《一 |[ i。。appDataPath elementCount ]| 【
 		· |[ appDataPath atIndex</ i /> isEqualTo?? '\\' ]| backslashesSeen storesItselfPlus</ 1 />;
 		· |[ backslashesSeen isEqualTo?? 2 ]| goToNextIteration; 
-		· |[ backslashesSeen isGreaterThan?? 2 ]| userHomePath addToEnd</ 
+		· |[ backslashesSeen isGreaterThan?? 2 ]| userHomePath addToEnd</ appDataPath atIndex</ i /> />;
 	】
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
 	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]|【
