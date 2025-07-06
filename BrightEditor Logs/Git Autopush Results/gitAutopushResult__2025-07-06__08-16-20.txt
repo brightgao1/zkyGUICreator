@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-16-15.txt', LF will be replaced by CRLF the next time Git touches it
+[master 8a40826] BrightEditor autopush 08:16:15 7/6/2025 CST
+ 22 files changed, 53 insertions(+), 6 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-16-15.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-11__560__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-11__740__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-12__572__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-12__603__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-12__633__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-12__65__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-12__666__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-12__792__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-12__960__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-13__104__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-13__881__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-14__466__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-14__632__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-14__792__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-14__942__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-15__240__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-15__809__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-15__89__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-16__258__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-16-16__40__Shift
+To https://github.com/brightgao1/zkyGUICreator.git
+   3cd48da..8a40826  master -> master
