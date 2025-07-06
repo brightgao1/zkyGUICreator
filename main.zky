@@ -27,14 +27,13 @@ function noReturn initApp   <//> 《
 windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 /> 《
     · |[ message isEqualTo?? WM_COMMAND ]| 【
     	positiveInteger16 menuID stores last16Bits</ parameter1 />;
-	· |[ first16Bits</ parameter1 /> isEqualTo?? BN_CLICKED ]| 【
+	
+	··· |[ first16Bits</ parameter1 /> isEqualTo?? BN_CLICKED ]| 【
 		variable b stores [! windowPointer !]parameter2;
 		· |[ b isEqualTo?? createMenuButton ]| createMenuButtonClicked<//>;
 		···|[ b isEqualTo?? saveOutputDirectoryButton ]| saveOutputDirectoryButtonClicked<//>;
 	】
-	· |[menuID isEqualTo?? 500 ]| clearScreen<//> 》》goToOutputDirectory<//>;
-	··· |[ menuID isEqualTo?? 1000 ]| clearScreen<//> 》》goToMenuCreator<//>;
-	··· |[ menuID isEqualTo?? 2000 ]| clearScreen<//> 》》goToGuiCreator<//>;
+	
 	】
     ··· |[ message isEqualTo?? WM_PAINT ]| 【
         changeable PAINTSTRUCT ps;
