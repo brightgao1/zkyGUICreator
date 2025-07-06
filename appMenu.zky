@@ -35,6 +35,6 @@ function noReturn initPaths   <//> 《
 	getAppDataPath</ appDataPath />;
 	appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
-		
+	·|[ pathExists</  /> isEqualTo?? [! binary !]0 ]|	
 
 》
