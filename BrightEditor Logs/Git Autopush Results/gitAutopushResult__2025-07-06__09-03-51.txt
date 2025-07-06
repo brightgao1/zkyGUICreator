@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__09-03-46.txt', LF will be replaced by CRLF the next time Git touches it
+[master 92153f5d] BrightEditor autopush 09:03:46 7/6/2025 CST
+ 23 files changed, 90 insertions(+), 8 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__09-03-46.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-41__813__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-41__839__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-41__870__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-41__901__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-41__932__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-41__980__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-42__117__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-42__227__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-42__308__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-42__320__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-42__332__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-42__58__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-43__142__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-43__286__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-43__680__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-43__7__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-44__279__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-44__398__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-03-44__767__F5
+To https://github.com/brightgao1/zkyGUICreator.git
+   29a517a2..92153f5d  master -> master
