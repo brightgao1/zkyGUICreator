@@ -30,7 +30,7 @@ function noReturn goToOutputDirectory   <//> 《
 	· |[ outputDirectoryEdit isEqualTo?? null ]| 做Edit</ outputDirectoryEdit。。40。。 60。。300。。30。。mainWindow />;
 	· |[ outputDirectoryBrowseButton isEqualTo?? null ]| 做Anniu</ outputDirectoryBrowseButton。。unicodeLiteral</ Browse />。。400。。60。。100。。30。。mainWindow。。null />;
 	· |[ saveOutputDirectoryButton isEqualTo?? null ]|做Anniu</ saveOutputDirectoryButton。。unicodeLiteral</ Save Output Directory />。。40。。150。。200。。50。。mainWindow。。null />;
-	renameWindow</ outputDirectoryEdit。userOutputDirectory</ 
+	renameWindow</ outputDirectoryEdit。userOutputDirectory pointer />;
 	show</ outputDirectoryText /> 》》show</ outputDirectoryEdit /> 》》show</ outputDirectoryBrowseButton /> 》》show</ saveOutputDirectoryButton />;
 	
 》
