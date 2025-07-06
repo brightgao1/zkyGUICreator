@@ -20,6 +20,7 @@ changeable menuPointer mainMenu stores 做Menu;
 immutable unicodeString mainWindowClassStr stores unicodeLiteral</ The Main Window Class Name! />;
 
 function noReturn initApp   <//> 《
+	initPaths<//>;
 	initAppMenu<//> 》》initEditMatrix<//>  》》renameWindow</ mainWindow。。unicodeLiteral</ zkyGUICreator /> />;
 	goToMenuCreator<//>;
 》
