@@ -80,7 +80,7 @@ function noReturn createMenuButtonClicked   <//> 《
 				口 |[ menuTxt atIndex</ (menuTxt elementCount) minus 1 /> isEqualTo?? space ]| menuTxt removeFromEnd;
 				· |[ menuTxt isEqualTo?? unicodeLiteral</ __LINE__ /> ]| 【
 					res storesItselfPlus</ unicodeLiteral</ Жف /> /> 》》res storesItselfPlus</ unicodeLiteral</ < /> />;
-					repeat|[2]| 
+					repeat|[2]| res 
 					
 				】
 				·· 【
