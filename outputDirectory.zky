@@ -15,7 +15,7 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	unicodeStringToFile</ ADoutputDirectoryPath。。userOutputDirectory />;
 	unicodeString message stores unicodeLiteral</ Successfully saved! />;
 	repeat |[2]| message addToEnd</ newLine />;
-	message storesItselfPlus</ unicodeLiteral</ Your new output directory: />;
+	message storesItselfPlus</ unicodeLiteral</ Your new output directory: /> />;
 	repeat |[2]| message addToEnd</ space />;
 	message storesItselfPlus</ userOutputDirectory />;
 	alert</ message pointer />;
