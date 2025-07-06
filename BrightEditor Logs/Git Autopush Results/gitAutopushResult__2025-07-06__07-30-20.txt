@@ -1,0 +1,27 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-30-15.txt', LF will be replaced by CRLF the next time Git touches it
+[master 8d1415a] BrightEditor autopush 07:30:15 7/6/2025 CST
+ 23 files changed, 52 insertions(+), 9 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-30-15.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-11__133__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-11__318__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-11__456__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-11__592__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__130__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__161__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__194__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__376__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__530__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__680__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__802__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__952__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-12__99__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-13__423__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-14__104__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-14__191__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-15__166__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-15__229__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-15__269__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-15__796__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-30-15__874__Backspace
+To https://github.com/brightgao1/zkyGUICreator.git
+   87aeed0..8d1415a  master -> master
