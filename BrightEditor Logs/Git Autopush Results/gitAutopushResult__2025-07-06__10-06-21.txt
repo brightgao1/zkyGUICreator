@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__10-06-16.txt', LF will be replaced by CRLF the next time Git touches it
+[master c6f70368] BrightEditor autopush 10:06:16 7/6/2025 CST
+ 21 files changed, 43 insertions(+), 4 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__10-06-16.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-12__397__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-12__904__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-12__938__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-13__164__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-13__388__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-13__875__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-14__386__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-14__700__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-15__251__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-15__612__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-15__814__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-16__325__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-16__838__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-16__869__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-16__899__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-16__931__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-17__139__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-17__56__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-06-17__6__Right
+To https://github.com/brightgao1/zkyGUICreator.git
+   022d67bb..c6f70368  master -> master
