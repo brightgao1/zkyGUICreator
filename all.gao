@@ -17,7 +17,7 @@ global instancePointer mainInstance;
 global rectangle appRectangle;
 
 global unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
-global unicodeString appDataPath;
+global unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory;
 
 function noReturn initAppMenu   <//>; function noReturn initPaths   <//>;
 
