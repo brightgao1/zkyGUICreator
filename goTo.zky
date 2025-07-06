@@ -19,7 +19,7 @@ function noReturn initEditMatrix   <//> 《
 	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| (editMatrix atIndex</ r />) atIndex</ c /> stores null;
 》
 function noReturn clearScreen   <//> 《
-	hide</ createMenuButton /> 》》hide</ 
+	hide</ createMenuButton /> 》》hide</ outputDirectoryText /> 》》
 	一》 |[r。。editMatrix elementCount ]| 【
 		一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| hide</ (editMatrix atIndex</ r />) atIndex</ c /> />;
 	】
