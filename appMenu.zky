@@ -37,7 +37,7 @@ function noReturn initPaths   <//> 《
 	positiveInteger16 backslashesSeen stores 0;
 	《一 |[ i。。appDataPath elementCount ]| 【
 		· |[ appDataPath atIndex</ i /> isEqualTo?? '\\' ]| backslashesSeen storesItselfPlus</ 1 />;
-		· |[  	
+		· |[ appDataPath 	
 		· |[ backslashesSeen isGreaterThan?? 2
 	】
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
