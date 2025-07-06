@@ -1,4 +1,4 @@
-zkyGUICreator is a drag-and-drop visual editor to easily create zky GUIs (navigation bars, buttons, textboxes, etc).
+zkyGUICreator is a drag-and-drop visual editor, allowing effortless creation of zky GUIs (navigation bars, buttons, textboxes, etc).
 
 ### Development
 The development of this entire project was recorded: 
