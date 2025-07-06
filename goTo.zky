@@ -58,7 +58,7 @@ function noReturn createMenuButtonClicked   <//> 《
 	//口 |[ pathExists</ 
 	outputFile storesItselfPlus</ .gao />;
 	《一 |[ i。。outputFile elementCount ]| 【
-		· |[ outputFile atIndex</ i /> 
+		· |[ outputFile atIndex</ i /> isEqualTo?? '\\' ]| 
 	】 
 	unicodeString res;
 	res storesItselfPlus</ function  />
