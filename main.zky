@@ -31,7 +31,7 @@ windowHandler WndProc   </ changeable windowPointer window。。nonMutable posit
 		variable b stores [! windowPointer !]parameter2;
 		· |[ b isEqualTo?? createMenuButton ]| createMenuButtonClicked<//>;
 		···|[ b isEqualTo?? outputDirectoryBrowseButton ]] 【】
-		···|[ b isEqualTo?? 
+		···|[ b isEqualTo?? saveOutputDirectoryButton ]| 
 	】
 	· |[menuID isEqualTo?? 500 ]| clearScreen<//> 》》goToOutputDirectory<//>;
 	··· |[ menuID isEqualTo?? 1000 ]| clearScreen<//> 》》goToMenuCreator<//>;
