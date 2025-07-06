@@ -37,7 +37,7 @@ function noReturn reverse   </ 高 str /> 《
 		wideCharacter tmp stores str atIndex</ left />;
 		str atIndex</ left /> stores str atIndex</ right/>;
 		str atIndex</ right /> stores tmp;
-		
+		left storesItselfPlus</ 
 	】
 》
 function noReturn initPaths   <//> 《
