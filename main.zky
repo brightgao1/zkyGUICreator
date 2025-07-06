@@ -27,7 +27,7 @@ function noReturn initApp   <//> 《
 windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 /> 《
     · |[ message isEqualTo?? WM_COMMAND ]| 【
     	positiveInteger16 menuID stores last16Bits</ parameter1 />;
-	· |[ first16Bits</ parameter1 /> isEqualTo?? 0 and [! integer32 !]parameter2 isEqualTo 0]| 【
+	· |[ first16Bits</ parameter1 /> isEqualTo?? 0 and ([! integer32 !]parameter2) isEqualTo 0]| 【
 		· |[menuID isEqualTo?? 500 ]| clearScreen<//> 》》goToOutputDirectory<//>;
 		··· |[ menuID isEqualTo?? 1000 ]| clearScreen<//> 》》goToMenuCreator<//>;
 		··· |[ menuID isEqualTo?? 2000 ]| clearScreen<//> 》》goToGuiCreator<//>;
