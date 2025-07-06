@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-39-41.txt', LF will be replaced by CRLF the next time Git touches it
+[master 0c1aa149] BrightEditor autopush 08:39:41 7/6/2025 CST
+ 21 files changed, 49 insertions(+), 2 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-39-41.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-37__29__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-37__419__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-37__51__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-37__84__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-37__926__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-37__958__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-37__987__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-38__306__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-38__882__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-39__397__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-39__428__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-39__458__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-39__665__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-40__166__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-40__214__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-40__245__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-40__275__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-40__497__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-39-41__210__Down
+To https://github.com/brightgao1/zkyGUICreator.git
+   6d071015..0c1aa149  master -> master
