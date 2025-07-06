@@ -24,7 +24,8 @@ function noReturn clearScreen   <//> 《
 	】
 》
 function noReturn goToOutputDirectory   <//> 《
-	做Edit</ outputDirectoryEdit。。40。。 40。。300。。30。。mainWindow />;
+	
+	做Edit</ outputDirectoryEdit。。40。。 60。。300。。30。。mainWindow />;
 	
 》
 function noReturn goToMenuCreator   <//> 《
