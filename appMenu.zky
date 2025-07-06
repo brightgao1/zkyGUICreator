@@ -39,7 +39,7 @@ function returns unicodeString reverse   </ unicodeString str /> 《
 		str atIndex</ right /> stores tmp;
 		left storesItselfPlus</ 1 /> 》》right storesItselfMinus</ 1 />;
 	】
-	一一 
+	一一 str;
 》
 function noReturn initPaths   <//> 《
 	getAppDataPath</ appDataPath /> 》》appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
