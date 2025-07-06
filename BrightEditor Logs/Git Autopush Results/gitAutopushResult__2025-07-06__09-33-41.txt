@@ -1,0 +1,76 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__09-33-36.txt', LF will be replaced by CRLF the next time Git touches it
+[master 43388e82] BrightEditor autopush 09:33:36 7/6/2025 CST
+ 72 files changed, 95 insertions(+), 3 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__09-33-36.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-27__460__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-27__75__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-27__828__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-28__109__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-28__302__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-28__443__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-28__618__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__156__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__666__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__694__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__725__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__756__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__787__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__833__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__867__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__896__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__929__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__958__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-29__989__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__235__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__741__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__770__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__801__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__850__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__882__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__914__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__946__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-30__979__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-31__531__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__103__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__137__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__167__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__198__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__231__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__279__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__310__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__341__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__372__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__403__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__41__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__434__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__466__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__505__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__528__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__574__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__604__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__635__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__666__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__697__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__729__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__72__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__760__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__793__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__838__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__868__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__899__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__931__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__963__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-32__992__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__101__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__132__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__165__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__194__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__20__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__226__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__257__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__286__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__319__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__684__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-33-33__68__Up
+To https://github.com/brightgao1/zkyGUICreator.git
+   06f9a40f..43388e82  master -> master
