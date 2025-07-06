@@ -51,7 +51,7 @@ function noReturn initPaths   <//> 《
 		· |[ backslashesSeen isGreaterThan?? 2 ]| userHomePath addToEnd</ appDataPath atIndex</ i /> />;
 	】
 	userHomePath stores reverse</ userHomePath /> 》》userHomePath removeFromEnd;
-	alert</ userHomePath pointer />;
+	
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
 	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]|【
 		 newFile</ ADoutputDirectoryPath />; 
