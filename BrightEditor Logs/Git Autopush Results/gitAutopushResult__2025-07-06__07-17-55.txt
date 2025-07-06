@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-17-50.txt', LF will be replaced by CRLF the next time Git touches it
+[master 779e91b] BrightEditor autopush 07:17:50 7/6/2025 CST
+ 22 files changed, 42 insertions(+), 12 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-17-50.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-47__220__B
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-47__276__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-47__364__C
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-47__469__K
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-47__933__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-48__164__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-48__237__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-48__343__H
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-48__485__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-48__548__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-48__60__L
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-48__932__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-49__204__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-49__267__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-49__812__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-49__85__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-49__909__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-50__221__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-50__292__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-17-50__84__E
+To https://github.com/brightgao1/zkyGUICreator.git
+   ed9fd72..779e91b  master -> master
