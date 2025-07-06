@@ -32,7 +32,7 @@ function noReturn initAppMenu   <//>  《
 	SetMenu</ mainWindow。。mainMenu />;	
 》
 function noReturn initPaths   <//> 《
-	getAppDataPath</ appDataPath /> 》》SetMenu</ mainWindow。。mainMenu />;
+	getAppDataPath</ appDataPath />;
 	appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
 	
 	printUnicodeString appDataPath;
