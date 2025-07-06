@@ -20,7 +20,7 @@ global unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuSt
 global unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory;
 
 function noReturn initAppMenu   <//>; function noReturn initPaths   <//>;
-function noReturn rev   </ 高str />;
+function returns unicodeString reverse   </ str />;
 
 function noReturn initApp   <//>;
 windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 />;
