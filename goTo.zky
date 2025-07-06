@@ -99,6 +99,6 @@ function noReturn createMenuButtonClicked   <//> 《
 			】
 		】 
 	】
-	res addToEnd</ \u300B />;
+	res addToEnd</ '\u300B' />;
 	MessageBoxW</ mainWindow。。res pointer。。0。。0 />;
 》
