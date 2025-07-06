@@ -65,7 +65,7 @@ function noReturn createMenuButtonClicked   <//> 《
 	functionName stores reverse</ functionName />;
 	unicodeString res;
 	res storesItselfPlus</ unicodeLiteral</ function />  /> 》》res addToEnd</ space /> 》》res storesItselfPlus</ unicodeLiteral</ noReturn /> />;
-	res addToEnd</ space /> 》》res storesItselfPlus</ noExtension</ functionName />;
+	res addToEnd</ space /> 》》res storesItselfPlus</ noExtension</ functionName /> />;
 	repeat |[3]| res addToEnd</ space />;
 	res storesItselfPlus</ unicodeLiteral</ < /> />;
 	repeat|[2]| res storesItselfPlus</ unicodeLiteral</ / /> />;
