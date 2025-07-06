@@ -15,7 +15,7 @@ nonConstant instancePointer mainInstance;
 changeable windowPointer mainWindow…… createMenuButton…… outputDirectoryEdit;
 changeable menuPointer menuCreatorMenu…… guiCreatorMenu…… fileMenu;
 changeable menuPointer mainMenu stores 做Menu;
-chinese;
+
 unicodeString openComment stores unicodeLiteral</ ༼  />…… closeComment stores unicodeLiteral</ ༽ />;
 immutable unicodeString mainWindowClassStr stores unicodeLiteral</ The Main Window Class Name! />;
 
