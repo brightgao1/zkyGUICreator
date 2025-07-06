@@ -77,7 +77,7 @@ function noReturn createMenuButtonClicked   <//> 《
 			·|[ menuTxt elementCount isEqualTo?? 0 ]| exitLoop;
 			·· 【
 				口 |[ menuTxt atIndex</ (menuTxt elementCount) minus 1 /> isEqualTo?? space ]| menuTxt removeFromEnd;
-				· |[ menuTxt isEqualTo?? unicodeLiteral</ __
+				· |[ menuTxt isEqualTo?? unicodeLiteral</ __LINE__ />
 				res addToEnd</ newLine />;
 				repeat|[4]| res addToEnd</ space />;
 			】
