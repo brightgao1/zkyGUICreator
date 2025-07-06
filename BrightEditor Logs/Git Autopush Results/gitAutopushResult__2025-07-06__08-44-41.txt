@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-44-36.txt', LF will be replaced by CRLF the next time Git touches it
+[master e2760e8d] BrightEditor autopush 08:44:36 7/6/2025 CST
+ 23 files changed, 47 insertions(+), 15 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-44-36.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-31__774__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-32__270__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-32__550__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-32__630__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-32__710__C
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-32__824__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-32__895__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-32__990__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__183__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__270__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__463__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__577__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__680__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__718__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__759__G
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-33__879__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-34__111__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-34__182__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-35__590__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-44-35__687__S
+To https://github.com/brightgao1/zkyGUICreator.git
+   ce8fbcf2..e2760e8d  master -> master
