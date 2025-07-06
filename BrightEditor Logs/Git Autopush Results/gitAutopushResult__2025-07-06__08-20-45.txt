@@ -1,0 +1,22 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-20-40.txt', LF will be replaced by CRLF the next time Git touches it
+[master ec6c402] BrightEditor autopush 08:20:40 7/6/2025 CST
+ 19 files changed, 57 insertions(+), 9 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-20-40.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-36__657__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-36__737__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-38__643__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-38__811__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-38__876__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-39__148__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-39__284__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-39__579__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-39__675__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-39__90__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-40__244__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-40__340__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-40__706__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-40__746__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-40__858__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-20-41__273__S
+To https://github.com/brightgao1/zkyGUICreator.git
+   65e4f62..ec6c402  master -> master
