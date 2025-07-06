@@ -62,7 +62,7 @@ function noReturn createMenuButtonClicked   <//> 《
 		· |[ outputFile atIndex</ i /> isEqualTo?? '\\' ]| exitLoop;
 		functionName addToEnd outputFile atIndex</ i />;
 	】 
-	
+	functionName stores reverse</ functionName />;
 	unicodeString res;
 	res storesItselfPlus</ function  />
 	一》|[ c。。editMatrix atIndex</ 0 /> elementCount ]| 【
