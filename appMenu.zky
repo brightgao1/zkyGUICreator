@@ -35,7 +35,8 @@ function noReturn reverse   </ 高 str /> 《
 	positiveInteger64 left stores 0…… right stores (str elementCount);
 	口 |[ left isLessThan right ]| 【
 		wideCharacter tmp stores str atIndex</ left />;
-		str atIndex</ left /> stores 
+		str atIndex</ left /> stores str atIndex</ right/>;
+		
 	】
 》
 function noReturn initPaths   <//> 《
