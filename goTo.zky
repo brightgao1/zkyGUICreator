@@ -12,7 +12,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
 staticMatrix</ windowPointer。。18。。12。。editMatrix />;
 changeable rectangle appRectangle;
-changeable windowPointer 
+
 
 function noReturn initEditMatrix   <//> 《
 	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| (editMatrix atIndex</ r />) atIndex</ c /> stores null;
