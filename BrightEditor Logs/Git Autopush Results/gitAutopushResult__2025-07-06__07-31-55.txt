@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-31-50.txt', LF will be replaced by CRLF the next time Git touches it
+[master 16761f1] BrightEditor autopush 07:31:50 7/6/2025 CST
+ 22 files changed, 47 insertions(+), 8 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-31-50.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-46__407__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-46__499__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-46__725__G
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-46__787__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-46__867__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-47__481__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-47__999__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__516__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__543__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__572__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__603__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__636__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__669__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__700__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__734__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-48__739__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-49__534__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-49__854__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-31-49__935__S
+To https://github.com/brightgao1/zkyGUICreator.git
+   98793d8..16761f1  master -> master
