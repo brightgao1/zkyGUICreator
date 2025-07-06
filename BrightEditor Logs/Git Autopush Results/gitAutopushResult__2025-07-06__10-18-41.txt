@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__10-18-36.txt', LF will be replaced by CRLF the next time Git touches it
+[master f713c819] BrightEditor autopush 10:18:36 7/6/2025 CST
+ 21 files changed, 69 insertions(+), 10 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__10-18-36.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-32__376__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-32__504__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-32__683__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-32__811__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-32__887__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-33__246__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-33__464__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-33__623__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-33__823__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-34__194__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-34__319__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-34__432__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-34__544__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-34__695__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-34__832__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-34__951__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-36__312__'
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-36__847__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-18-37__240__Shift
+To https://github.com/brightgao1/zkyGUICreator.git
+   72af6176..f713c819  master -> master
