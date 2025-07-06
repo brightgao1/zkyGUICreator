@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-01-05.txt', LF will be replaced by CRLF the next time Git touches it
+[master d068fe0] BrightEditor autopush 07:01:05 7/6/2025 CST
+ 22 files changed, 46 insertions(+), 13 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__07-01-05.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-00__877__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-00__936__P
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-01__143__H
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-01__525__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-01__54__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-01__63__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-01__806__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-01__942__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-02__198__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-02__302__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-02__358__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-02__432__H
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-02__70__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-02__918__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-03__174__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-03__254__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-03__891__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-04__114__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__07-01-04__190__S
+To https://github.com/brightgao1/zkyGUICreator.git
+   95eb047..d068fe0  master -> master
