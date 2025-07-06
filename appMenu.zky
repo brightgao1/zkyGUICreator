@@ -36,7 +36,7 @@ function noReturn initPaths   <//> 《
 	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</ \\outputDirectory.txt />;
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
 	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]|【
-		 newFile</ ADoutputDirectoryPath />; unicodeStringToFile</ 
+		 newFile</ ADoutputDirectoryPath />; unicodeStringToFile</ ADoutputDirectoryPath。。
 	】
 	fileToUnicodeString</ ADoutputDirectoryPath。。userOutputDirectory />;
 	·
