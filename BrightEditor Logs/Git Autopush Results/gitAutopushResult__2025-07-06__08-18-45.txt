@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-18-40.txt', LF will be replaced by CRLF the next time Git touches it
+[master 22bfb02] BrightEditor autopush 08:18:40 7/6/2025 CST
+ 23 files changed, 54 insertions(+), 19 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__08-18-40.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-36__695__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-36__834__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-36__906__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__219__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__306__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__418__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__587__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__627__L
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__779__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__842__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__972__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-37__99__C
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-38__147__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-38__251__L
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-38__420__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-38__50__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-38__515__,
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-38__802__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-38__955__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__08-18-39__36__S
+To https://github.com/brightgao1/zkyGUICreator.git
+   82909c7..22bfb02  master -> master
