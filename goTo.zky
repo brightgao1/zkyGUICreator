@@ -54,7 +54,7 @@ function noReturn goToGuiCreator   <//> 《
 》
 function noReturn createMenuButtonClicked   <//> 《
 	unicodeString outputFile
-	一》|[ c。。(editMatrix atIndex</ 0 />) elementCount ]| 【
+	一》|[ c。。editMatrix atIndex</ 0 /> elementCount ]| 【
 		一》|[ r。。editMatrix elementCount ]| 【
 			unicodeString menuTxt; getEditText</ editMatrix atIndex</ r />atIndex</ c />。。menuTxt />;
 			·|[ menuTxt elementCount isEqualTo?? 0 ]| exitLoop;
