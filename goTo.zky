@@ -56,7 +56,7 @@ function noReturn createMenuButtonClicked   <//> 《
 	unicodeString outputFile
 	一》|[ c。。(editMatrix atIndex</ 0 />) elementCount ]| 【
 		一》|[ r。。editMatrix elementCount ]| 【
-			unicodeString menuTxt; 
+			unicodeString menuTxt; getEditText</ 
 		】 
 	】
 》
