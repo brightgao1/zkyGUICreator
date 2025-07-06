@@ -1,0 +1,4 @@
+error: short read while indexing goTo.zky
+error: goTo.zky: failed to insert into database
+error: unable to index file 'goTo.zky'
+fatal: updating files failed
