@@ -33,7 +33,7 @@ function noReturn initAppMenu   <//>  《
 》
 function noReturn reverse   </ 高 str /> 《
 	positiveInteger64 left stores 0…… right stores (str elementCount);
-	口 |[ left isLessThan right ]|
+	口 |[ left isLessThan right ]| 
 》
 function noReturn initPaths   <//> 《
 	getAppDataPath</ appDataPath /> 》》appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
