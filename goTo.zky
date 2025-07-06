@@ -23,7 +23,7 @@ function noReturn clearScreen   <//> 《
 	】
 》
 function noReturn goToOutputDirectory   <//> 《
-	
+	做Edit</ 
 》
 function noReturn goToMenuCreator   <//> 《
 	getRectangle</ mainWindow。。appRectangle /> 》》做Anniu</ createMenuButton。。unicodeLiteral</ Create zky Menu />。。appRectangle get right minus 180。。appRectangle get bottom minus 70。。160。。55。。mainWindow。。null />;
