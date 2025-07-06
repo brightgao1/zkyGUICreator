@@ -1,0 +1,11 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__10-36-37.txt', LF will be replaced by CRLF the next time Git touches it
+[master de3a6832] BrightEditor autopush 10:36:37 7/6/2025 CST
+ 7 files changed, 33 insertions(+), 2 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__10-36-37.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-36-33__787__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-36-34__273__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-36-34__470__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-36-34__659__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__10-36-34__82__Left
+To https://github.com/brightgao1/zkyGUICreator.git
+   a6270387..de3a6832  master -> master
