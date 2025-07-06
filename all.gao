@@ -33,4 +33,4 @@ function noReturn initEditMatrix   <//>;
 function noReturn goToOutputDirectory   <//>; function noReturn goToMenuCreator   <//>; function noReturn goToGuiCreator   <//>;
 function noReturn createMenuButtonClicked   <//>;
 
-saveOutputDirectoryButtonClicked<//>;
+function noReturn saveOutputDirectoryButtonClicked<//>;
