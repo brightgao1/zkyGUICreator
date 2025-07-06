@@ -32,7 +32,7 @@ function noReturn initAppMenu   <//>  《
 	SetMenu</ mainWindow。。mainMenu />;	
 》
 function returns unicodeString reverse   </ unicodeString str /> 《
-	positiveInteger64 left stores 0…… right stores (str elementCount minus 1);
+	positiveInteger64 left stores 0…… right stores ((str elementCount) minus 1);
 	口 |[ left isLessThan right ]| 【
 		wideCharacter tmp stores str atIndex</ left />;
 		str atIndex</ left /> stores str atIndex</ right/>;
