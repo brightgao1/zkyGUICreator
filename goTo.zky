@@ -69,7 +69,7 @@ function noReturn createMenuButtonClicked   <//> 《
 	repeat |[3]| res addToEnd</ space />;
 	res storesItselfPlus</ unicodeLiteral</ < /> />;
 	res storesItselfPlus</ unicodeLiteral</ // /> />;
-	res addToEnd</ > />;
+	res storesItselfPlus</ unicodeLiteral</ > /> />;
 	一》|[ c。。editMatrix atIndex</ 0 /> elementCount ]| 【
 		一》|[ r。。editMatrix elementCount ]| 【
 			unicodeString menuTxt; getEditText</ editMatrix atIndex</ r />atIndex</ c />。。menuTxt />;
