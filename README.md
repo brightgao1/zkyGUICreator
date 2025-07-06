@@ -1,1 +1,1 @@
-zkyGUICreator allows 
+zkyGUICreator is a drag and drop visual editor for creating 
