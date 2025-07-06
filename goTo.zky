@@ -54,6 +54,8 @@ function noReturn goToGuiCreator   <//> 《
 》
 function noReturn createMenuButtonClicked   <//> 《
 	一》|[ c。。(editMatrix atIndex</ 0 />) elementCount ]| 【
-		一》|[ r。。editMatrix elementCount ]| 
+		一》|[ r。。editMatrix elementCount ]| 【
+
+		】 
 	】
 》
