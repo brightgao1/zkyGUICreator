@@ -1,0 +1,58 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     14:17:30 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   goTo.zky
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+  	     加    	 	all.gao;
+
+staticMatrix</ windowPointer。。18。。12。。editMatrix />;
+changeable rectangle appRectangle;
+changeable windowPointer outputDirectoryText…… outputDirectoryBrowseButton…… saveOutputDirectoryButton;
+
+
+function noReturn initEditMatrix   <//> 《
+	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| (editMatrix atIndex</ r />) atIndex</ c /> stores null;
+》
+function noReturn clearScreen   <//> 《
+	hide</ createMenuButton /> 》》hide</ outputDirectoryText /> 》》hide</ outputDirectoryEdit />;
+	hide</ outputDirectoryBrowseButton /> 》》hide</ saveOutputDirectoryButton />;
+	一》 |[r。。editMatrix elementCount ]| 【
+		一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| hide</ (editMatrix atIndex</ r />) atIndex</ c /> />;
+	】
+》
+function noReturn goToOutputDirectory   <//> 《
+	· |[ outputDirectoryText isEqualTo?? null ]| 做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output generated zky: />。。40。。25。。800。。800。。mainWindow />;
+	· |[ outputDirectoryEdit isEqualTo?? null ]| 做Edit</ outputDirectoryEdit。。40。。 60。。300。。30。。mainWindow />;
+	· |[ outputDirectoryEdit isEqualTo?? null ]| 做Anniu</ outputDirectoryBrowseButton。。unicodeLiteral</ Browse />。。400。。60。。100。。30。。mainWindow。。null />;
+	· |[ outputDirectoryEdit isEqualTo?? null ]|做Anniu</ saveOutputDirectoryButton。。unicodeLiteral</ Save Output Directory />。。40。。150。。200。。30。。mainWindow。。null />;
+	
+》
+function noReturn goToMenuCreator   <//> 《
+	getRectangle</ mainWindow。。appRectangle /> 》》做Anniu</ createMenuButton。。unicodeLiteral</ Create zky Menu />。。appRectangle get right minus 180。。appRectangle get bottom minus 70。。160。。55。。mainWindow。。null />;
+	positiveInteger16 currX stores 10…… currY stores 10;
+	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| 【
+		· |[(editMatrix atIndex</ r />)atIndex</ c /> isEqualTo?? null]| 做Edit</ (editMatrix atIndex</ r />) atIndex</ c />。。currX。。currY。。100。。25。。mainWindow />;   
+	】
+	一》|[r。。editMatrix elementCount]| 【
+		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
+			variable box stores (editMatrix atIndex</ r />) atIndex</ c />;
+			MoveWindow</ box。。currX。。currY。。120。。25。。0 /> 》》currX storesItselfPlus</ 125 />;
+			show</ box />;
+		】
+		currY storesItselfPlus</ 30 /> 》》currX stores 10;
+	】
+》
+function noReturn goToGuiCreator   <//> 《
+	
+》
+function noReturn createMenuButtonClicked   <//> 《
+	alert</ fileMenuStr pointer />;
+》

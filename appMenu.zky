@@ -10,7 +10,8 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
  
 											加 all.gao;
 
-unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
+changeable unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
+changeable unicodeString appDataPath;
 
 function noReturn initAppMenu   <//>  《
 	repeat|[3]| fileMenuStr addToEnd</ space />;
@@ -28,5 +29,12 @@ function noReturn initAppMenu   <//>  《
 	addStringMenu</ menuCreatorMenu。。1005。。unicodeLiteral</ a /> />;
 	addStringMenu</ guiCreatorMenu。。2000。。unicodeLiteral</ aaa /> />;
 	
-	SetMenu</ mainWindow。。mainMenu />;
+	SetMenu</ mainWindow。。mainMenu />;	
+》
+function noReturn initPaths   <//> 《
+	getAppDataPath</ appDataPath /> 》》SetMenu</ mainWindow。。mainMenu />;
+	appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
+	
+	printUnicodeString appDataPath;
+	
 》

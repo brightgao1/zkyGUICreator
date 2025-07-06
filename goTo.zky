@@ -10,9 +10,9 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
   	     加    	 	all.gao;
 
-staticMatrix</ windowPointer。。18。。12。。editMatrix />;
+staticMatrix</ windowPointer。。16。。11。。editMatrix />;
 changeable rectangle appRectangle;
-changeable windowPointer outputDirectoryText;
+changeable windowPointer outputDirectoryText…… outputDirectoryBrowseButton…… saveOutputDirectoryButton;
 
 
 function noReturn initEditMatrix   <//> 《
@@ -20,13 +20,17 @@ function noReturn initEditMatrix   <//> 《
 》
 function noReturn clearScreen   <//> 《
 	hide</ createMenuButton /> 》》hide</ outputDirectoryText /> 》》hide</ outputDirectoryEdit />;
+	hide</ outputDirectoryBrowseButton /> 》》hide</ saveOutputDirectoryButton />;
 	一》 |[r。。editMatrix elementCount ]| 【
 		一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| hide</ (editMatrix atIndex</ r />) atIndex</ c /> />;
 	】
 》
 function noReturn goToOutputDirectory   <//> 《
-	做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output generated zky />。。20。。20。。200。。200。。mainWindow />;
-	做Edit</ outputDirectoryEdit。。40。。 60。。300。。30。。mainWindow />;
+	· |[ outputDirectoryText isEqualTo?? null ]| 做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output generated zky: />。。40。。25。。800。。800。。mainWindow />;
+	· |[ outputDirectoryEdit isEqualTo?? null ]| 做Edit</ outputDirectoryEdit。。40。。 60。。300。。30。。mainWindow />;
+	· |[ outputDirectoryBrowseButton isEqualTo?? null ]| 做Anniu</ outputDirectoryBrowseButton。。unicodeLiteral</ Browse />。。400。。60。。100。。30。。mainWindow。。null />;
+	· |[ saveOutputDirectoryButton isEqualTo?? null ]|做Anniu</ saveOutputDirectoryButton。。unicodeLiteral</ Save Output Directory />。。40。。150。。200。。50。。mainWindow。。null />;
+	show</ outputDirectoryText /> 》》show</ outputDirectoryEdit /> 》》show</ outputDirectoryBrowseButton /> 》》show</ saveOutputDirectoryButton />;
 	
 》
 function noReturn goToMenuCreator   <//> 《
