@@ -36,7 +36,7 @@ function noReturn initPaths   <//> 《
 	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</ \\outputDirectory.txt />;
 	positiveInteger16 backslashesSeen stores 0;
 	《一 |[ i。。appDataPath elementCount ]| 【
-		· |[ appDataPath atIndex</ i /> isEqualTo?? 
+		· |[ appDataPath atIndex</ i /> isEqualTo??  ]|
 	】 
 	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
 	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]|【
