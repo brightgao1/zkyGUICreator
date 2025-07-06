@@ -16,6 +16,7 @@ changeable windowPointer mainWindow…… createMenuButton…… outputDirectory
 changeable menuPointer menuCreatorMenu…… guiCreatorMenu…… fileMenu;
 changeable menuPointer mainMenu stores 做Menu;
 
+unicodeString openComment stores unicodeLiteral</ ༼  />…… closeComment stores unicodeLiteral</ ༽ />;
 immutable unicodeString mainWindowClassStr stores unicodeLiteral</ The Main Window Class Name! />;
 
 function noReturn initApp   <//> 《
