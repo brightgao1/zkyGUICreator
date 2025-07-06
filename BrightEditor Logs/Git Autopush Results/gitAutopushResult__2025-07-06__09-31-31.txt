@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__09-31-26.txt', LF will be replaced by CRLF the next time Git touches it
+[master f36404db] BrightEditor autopush 09:31:26 7/6/2025 CST
+ 21 files changed, 41 insertions(+), 3 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-06__09-31-26.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-22__397__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-22__567__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-22__730__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-22__899__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-23__297__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-24__19__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-24__291__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-24__474__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-24__738__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-24__915__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-25__203__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-25__370__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-25__626__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-25__802__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-26__235__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-26__395__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-26__65__Left
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-26__830__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-06__09-31-26__981__Right
+To https://github.com/brightgao1/zkyGUICreator.git
+   30e05f9c..f36404db  master -> master
