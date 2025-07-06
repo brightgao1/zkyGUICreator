@@ -14,5 +14,6 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	getEditText</ outputDirectoryEdit。。userOutputDirectory />;
 	unicodeStringToFile</ ADoutputDirectoryPath。。userOutputDirectory />;
 	unicodeString message stores unicodeLiteral</ Successfully saved! />;
-	message addToEnd</ space /> 》》message storesItselfPlus</ 
+	repeat |[2]| 
+	message storesItselfPlus</ 
 》
