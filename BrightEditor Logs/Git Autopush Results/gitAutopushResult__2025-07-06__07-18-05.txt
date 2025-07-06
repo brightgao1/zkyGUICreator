@@ -1,0 +1,4 @@
+error: short read while indexing BrightEditor Logs/keypressCounts.txt
+error: BrightEditor Logs/keypressCounts.txt: failed to insert into database
+error: unable to index file 'BrightEditor Logs/keypressCounts.txt'
+fatal: updating files failed
