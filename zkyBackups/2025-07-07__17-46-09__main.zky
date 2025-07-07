@@ -1,0 +1,80 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     06:58:07 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   main.zky
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+   加     	all.gao;
+
+
+nonConstant instancePointer mainInstance;
+changeable windowPointer mainWindow…… createMenuButton…… outputDirectoryEdit;
+changeable menuPointer menuCreatorMenu…… guiCreatorMenu…… fileMenu;
+changeable menuPointer mainMenu stores 做Menu;
+
+unicodeString openComment stores unicodeLiteral</ a />…… closeComment stores unicodeLiteral</ a />;
+immutable unicodeString mainWindowClassStr stores unicodeLiteral</ The Main Window Class Name! />;
+
+
+function noReturn initApp   <//> 《
+	initPaths<//>;
+	initAppMenu<//> 》》initEditMatrix<//>  》》renameWindow</ mainWindow。。unicodeLiteral</ zkyGUICreator /> />;
+	goToMenuCreator<//>;
+》
+windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 /> 《
+    · |[ message isEqualTo?? WM_COMMAND ]| 【
+    	positiveInteger16 menuID stores last16Bits</ parameter1 />;
+	· |[ ([! integer32 !]parameter2) isEqualTo?? 0]| 【
+		· |[menuID isEqualTo?? 500 ]| clearScreen<//> 》》goToOutputDirectory<//>;
+		··· |[ menuID isEqualTo?? 1000 ]| clearScreen<//> 》》goToMenuCreator<//>;
+		··· |[ menuID isEqualTo?? 2000 ]| clearScreen<//> 》》goToGuiCreator<//>;
+	】
+	··· |[ first16Bits</ parameter1 /> isEqualTo?? BN_CLICKED ]| 【
+		variable b stores [! windowPointer !]parameter2;
+		· |[ b isEqualTo?? createMenuButton ]| createMenuButtonClicked<//>;
+		···|[ b isEqualTo?? saveOutputDirectoryButton ]| saveOutputDirectoryButtonClicked<//>;
+	】
+	
+	】
+    ··· |[ message isEqualTo?? WM_PAINT ]| 【
+        changeable PAINTSTRUCT ps;
+        changeable HDC hdc stores BeginPaint</ window, &ps />;
+        EndPaint</ window, &ps />;
+    】
+    ··· |[ message isEqualTo?? WM_DESTROY ]| PostQuitMessage</ [! integer16 !]0 />;
+    ·· 一一 DefWindowProcW</ window。。message。。parameter1。。parameter2 />;
+   	一一 [! integer16 !]0;
+》
+
+function returns variable MyRegisterClass   </ instancePointer in /> 《
+    	changeable WNDCLASSEXW c; c.cbSize stores bytes</ WNDCLASSEXW />; 
+	c.hInstance stores in 》》c.style stores CS_HREDRAW | CS_VREDRAW 》》c.lpfnWndProc stores WndProc;
+    	c.cbClsExtra stores null 》》c.cbWndExtra stores null 》》c.hIcon stores null 》》c.hCursor stores LoadCursor</ null, IDC_ARROW />;
+    	c.lpszMenuName stores null 》》c.hIconSm stores null 》》c.lpszClassName stores mainWindowClassStr pointer;
+    	c.hbrBackground stores [! brushPointer !]([! positiveInteger16 !]6); 一一 RegisterClassExW</ &c />;
+》
+function returns variable InitInstance   </ changeable instancePointer in。。immutable integer32 howToShow /> 《
+   	mainInstance stores in; changeable windowPointer tmp;
+   	zuo</ tmp。。mainWindowClassStr pointer。。null。。WS_OVERLAPPEDWINDOW。。[! positiveInteger16 !]50。。[! positiveInteger16 !]50。。[! positiveInteger16 !]800。。[! positiveInteger16 !]600。。null />;
+   	mainWindow stores [! windowPointer !]tmp 》》ShowWindow</ mainWindow。。3/> 》》UpdateWindow</ mainWindow />;
+   	initApp<//>;
+	
+   	一一 [! integer32 !]1;
+》
+win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmdStr。。constant integer32 howToShow/> 《    	
+   	MyRegisterClass</ in />; changeable MSG msg;
+    	· |[ negation (InitInstance</ in。。howToShow />) ]| 一一 [! integer16 !]0;    	
+
+    	口 |[ GetMessage</ &msg。。null。。 0。。 0 /> ]| 【
+     		· |[ ([! integer32 !]TranslateAccelerator</ msg.hwnd。。null。。&msg />) isEqualTo?? [! integer16 !]0 ]| TranslateMessage</ &msg /> 》》DispatchMessage</ &msg />;
+    	】
+	一一 [! integer32 !]msg.wParam;
+》
+
