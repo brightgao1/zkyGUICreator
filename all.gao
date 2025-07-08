@@ -18,6 +18,7 @@ global rectangle appRectangle;
 
 global unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
 global unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory;
+global unicodeString openComment…… closeComment;
 
 function noReturn initAppMenu   <//>; function noReturn initPaths   <//>;
 function returns unicodeString reverse   </unicodeString str />;
