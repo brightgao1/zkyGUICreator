@@ -35,3 +35,4 @@ function noReturn goToOutputDirectory   <//>; function noReturn goToMenuCreator 
 function noReturn createMenuButtonClicked   <//>;
 
 function noReturn saveOutputDirectoryButtonClicked<//>;
+function noReturn initWindowMenuNames   <//>;
