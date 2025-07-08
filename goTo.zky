@@ -77,7 +77,8 @@ function noReturn createMenuButtonClicked   <//> 《
 	repeat|[4]| res addToEnd</ space />;
 	一》|[c。。editMatrix atIndex</ 0 /> elementCount]| 【
 		一》|[ r。。editMatrix elementCount]| 【
-			unicodeString menuVariableStr stores noExtension</ functionName /> plus unicodeLiteral</ _ />
+			unicodeString menuVariableStr stores noExtension</ functionName /> plus unicodeLiteral</ _ />;
+			
 		】
 	】
 	一》|[ c。。editMatrix atIndex</ 0 /> elementCount ]| 【
