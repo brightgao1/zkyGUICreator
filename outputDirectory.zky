@@ -18,6 +18,7 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	getEditText</ navBarWindowNameEdit。。navBarWindowNameStr />;
 	getEditText</ navBarNameEdit。。navBarNameStr />;
 	unicodeStringToFile</ ADoutputDirectoryPath。。userOutputDirectory />;
+	unicodeStringToFile</ ADnavBarPath。。navBarWindowNameStr />;
 	unicodeStringToFile</ 
 	
 	unicodeString message stores unicodeLiteral</ Successfully saved! />;
