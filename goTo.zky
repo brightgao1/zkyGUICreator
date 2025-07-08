@@ -67,14 +67,6 @@ function noReturn createMenuButtonClicked   <//> 《
 	】 
 	functionName stores reverse</ functionName />;
 	unicodeString res;
-	res storesItselfPlus</ unicodeLiteral</ function />  /> 》》res addToEnd</ space /> 》》res storesItselfPlus</ unicodeLiteral</ noReturn /> />;
-	res addToEnd</ space /> 》》res storesItselfPlus</ noExtension</ functionName /> />;
-	repeat |[3]| res addToEnd</ space />;
-	res storesItselfPlus</ unicodeLiteral</ < /> />;
-	repeat|[2]| res storesItselfPlus</ unicodeLiteral</ / /> />;
-	res storesItselfPlus</ unicodeLiteral</ > /> />;
-	res storesItselfPlus</ unicodeLiteral</ \u300A /> /> 》》res addToEnd</ newLine />;
-	repeat|[4]| res addToEnd</ space />;
 	一》|[c。。editMatrix atIndex</ 0 /> elementCount]| 【
 		一》|[ r。。editMatrix elementCount]| 【
 			unicodeString menuTxt; getEditText</ (editMatrix atIndex</ r />) atIndex</ c />。。menuTxt />;
@@ -87,6 +79,14 @@ function noReturn createMenuButtonClicked   <//> 《
 			alert</ menuVariableStr pointer />;
 		】
 	】
+	res storesItselfPlus</ unicodeLiteral</ function />  /> 》》res addToEnd</ space /> 》》res storesItselfPlus</ unicodeLiteral</ noReturn /> />;
+	res addToEnd</ space /> 》》res storesItselfPlus</ noExtension</ functionName /> />;
+	repeat |[3]| res addToEnd</ space />;
+	res storesItselfPlus</ unicodeLiteral</ < /> />;
+	repeat|[2]| res storesItselfPlus</ unicodeLiteral</ / /> />;
+	res storesItselfPlus</ unicodeLiteral</ > /> />;
+	res storesItselfPlus</ unicodeLiteral</ \u300A /> /> 》》res addToEnd</ newLine />;
+	repeat|[4]| res addToEnd</ space />;
 	一》|[ c。。editMatrix atIndex</ 0 /> elementCount ]| 【
 		一》|[ r。。editMatrix elementCount ]| 【
 			unicodeString menuVariableStr stores  noExtension</ functionName />;
