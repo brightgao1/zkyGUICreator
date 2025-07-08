@@ -10,6 +10,8 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
  	  加 all.gao;
 
+
+
 function noReturn saveOutputDirectoryButtonClicked<//> 《
 	getEditText</ outputDirectoryEdit。。userOutputDirectory />;
 	unicodeStringToFile</ ADoutputDirectoryPath。。userOutputDirectory />;
