@@ -75,7 +75,7 @@ function noReturn createMenuButtonClicked   <//> 《
 			menuVariableStr storesItselfPlus</ toUnicodeString</ r /> />;
 			menuVariableStr storesItselfPlus</ unicodeLiteral</ _ /> />;
 			menuVariableStr storesItselfPlus</ toUnicodeString</ c /> />;
-			
+			res storesItselfPlus</ 
 			alert</ menuVariableStr pointer />;
 		】
 	】
