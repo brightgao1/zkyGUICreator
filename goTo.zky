@@ -21,6 +21,7 @@ function noReturn initEditMatrix   <//> 《
 function noReturn clearScreen   <//> 《
 	hide</ createMenuButton /> 》》hide</ outputDirectoryText /> 》》hide</ outputDirectoryEdit />;
 	hide</ outputDirectoryBrowseButton /> 》》hide</ saveOutputDirectoryButton />;
+	hide</ 
 	一》 |[r。。editMatrix elementCount ]| 【
 		一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| hide</ (editMatrix atIndex</ r />) atIndex</ c /> />;
 	】
