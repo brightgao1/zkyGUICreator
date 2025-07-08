@@ -19,6 +19,7 @@ global rectangle appRectangle;
 
 global unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
 global unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory;
+global unicodeString ADwindowNamePath…… ADnavBarNamePath;
 global unicodeString openComment…… closeComment;
 global unicodeString navBarWindowNameStr…… navBarNameStr;
 
@@ -38,4 +39,3 @@ function noReturn createMenuButtonClicked   <//>;
 
 function noReturn saveOutputDirectoryButtonClicked<//>;
 function noReturn initWindowMenuNames   <//>;
-function returns variable getFormText   <//>;
