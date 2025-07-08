@@ -11,7 +11,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
 
 global windowPointer mainWindow…… createMenuButton…… outputDirectoryEdit……  outputDirectoryBrowseButton…… saveOutputDirectoryButton;
-changeable windowPointer navBarWindowNameEdit…… navBarNameEdit;
+global windowPointer navBarWindowNameEdit…… navBarNameEdit;
 global windowPointer outputDirectoryText;
 global menuPointer mainMenu…… menuCreatorMenu…… guiCreatorMenu…… fileMenu;
 global instancePointer mainInstance;
