@@ -45,7 +45,7 @@ function returns unicodeString reverse   </ unicodeString str /> 《
 function noReturn initPaths   <//> 《
 	getAppDataPath</ appDataPath /> 》》appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
 	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</ \\outputDirectory.txt />;
-	ADnavBarNamePath
+	ADnavBarNamePath stores 
 	positiveInteger16 backslashesSeen stores 0; unicodeString userHomePath;
 	《一 |[ i。。appDataPath elementCount ]| 【
 		· |[ appDataPath atIndex</ i /> isEqualTo?? '\\' ]| backslashesSeen storesItselfPlus</ 1 />;
