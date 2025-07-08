@@ -1,0 +1,23 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__03-59-27.txt', LF will be replaced by CRLF the next time Git touches it
+[master 25f56cb3] BrightEditor autopush 03:59:27 7/8/2025 CST
+ 19 files changed, 87 insertions(+), 10 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__03-59-27.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-23__363__[
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-23__519__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-23__54__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-23__984__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-24__110__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-24__16__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-24__344__]
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-24__421__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-24__757__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-25__117__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-25__247__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-25__542__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-25__622__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-25__910__]
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-26__471__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-26__622__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__03-59-27__886__Shift
+To https://github.com/brightgao1/zkyGUICreator.git
+   8b389fc3..25f56cb3  master -> master
