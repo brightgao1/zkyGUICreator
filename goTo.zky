@@ -61,7 +61,6 @@ function noReturn createMenuButtonClicked   <//> 《
 	】
 	outputFile storesItselfPlus</ toUnicodeString</ fileNum /> />;
 	outputFile storesItselfPlus</ unicodeLiteral</ .gao /> />;
-	alert</ outputFile pointer />;
 	《一 |[ i。。outputFile elementCount ]| 【
 		· |[ outputFile atIndex</ i /> isEqualTo?? '\\' ]| exitLoop;
 		functionName addToEnd</ outputFile atIndex</ i /> />;
@@ -103,5 +102,5 @@ function noReturn createMenuButtonClicked   <//> 《
 		】 
 	】
 	res storesItselfPlus</ unicodeLiteral</ \u300B /> />;
-	
+	alert</ 
 》
