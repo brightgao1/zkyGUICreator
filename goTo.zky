@@ -34,6 +34,7 @@ function noReturn goToOutputDirectory   <//> 《
 	renameWindow</ navBarNameEdit。。navBarNameStr pointer />;
 	renameWindow</ navBarWindowNameEdit。。navBarWindowNameStr pointer />;
 	show</ outputDirectoryText /> 》》show</ outputDirectoryEdit /> 》》show</ outputDirectoryBrowseButton /> 》》show</ saveOutputDirectoryButton />;
+	show</ 
 	initWindowMenuNames<//>;
 》
 function noReturn goToMenuCreator   <//> 《
