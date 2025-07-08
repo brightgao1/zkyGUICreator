@@ -23,12 +23,10 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	message storesItselfPlus</ userOutputDirectory /> 》》message addToEnd</ newLine />;
 	message storesItselfPlus</ New window name: />;
 	repeat|[8]| message addToEnd</ space />;
-	message storesItselfPlus</ navBarWindowNameStr />;
-	message st
+	message storesItselfPlus</ navBarWindowNameStr /> 》》message addToEnd</ newLine />;
+	message storesItselfPlus</ 
 	alert</ message pointer />;
 》
 function noReturn initWindowMenuNames   <//>《
 	做Edit</ navBarWindowNameEdit。。500。。60。。300。。30。。mainWindow />;
-	做Edit</ navBarNameEdit。。500。。300。。250。。30。。mainWindow />;
-	
-》
+	做Edit</ navBarNameEdit。。500。。300。。250。。30。
