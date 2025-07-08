@@ -64,6 +64,6 @@ function noReturn initPaths   <//> 《
 	
 	fileToUnicodeString</ ADoutputDirectoryPath。。userOutputDirectory />;
 	fileToUnicodeString</ ADnavBarNamePath。。navBarNameStr />;
-	fileToUnicodeString</ 
+	fileToUnicodeString</ ADnavBarWindow
 	
 》
