@@ -14,7 +14,6 @@ staticMatrix</ windowPointer。。16。。11。。editMatrix />;
 changeable rectangle appRectangle;
 changeable windowPointer outputDirectoryText…… outputDirectoryBrowseButton…… saveOutputDirectoryButton;
 
-
 function noReturn initEditMatrix   <//> 《
 	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| (editMatrix atIndex</ r />) atIndex</ c /> stores null;
 》
