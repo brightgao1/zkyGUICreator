@@ -32,7 +32,7 @@ function noReturn goToOutputDirectory   <//> 《
 	· |[ saveOutputDirectoryButton isEqualTo?? null ]|做Anniu</ saveOutputDirectoryButton。。unicodeLiteral</ Save Output Directory />。。40。。150。。200。。50。。mainWindow。。null />;
 	renameWindow</ outputDirectoryEdit。。userOutputDirectory pointer />;
 	show</ outputDirectoryText /> 》》show</ outputDirectoryEdit /> 》》show</ outputDirectoryBrowseButton /> 》》show</ saveOutputDirectoryButton />;
-	
+	init
 》
 function noReturn goToMenuCreator   <//> 《
 	getRectangle</ mainWindow。。appRectangle /> 》》做Anniu</ createMenuButton。。unicodeLiteral</ Create zky Menu />。。appRectangle get right minus 180。。appRectangle get bottom minus 70。。160。。55。。mainWindow。。null />;
@@ -111,7 +111,7 @@ function noReturn createMenuButtonClicked   <//> 《
 					
 				】
 				·· 【
-							
+					
 				】
 				res storesItselfPlus</ unicodeLiteral</ ; /> />;
 				res addToEnd</ newLine />;
