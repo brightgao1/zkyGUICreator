@@ -26,7 +26,7 @@ function noReturn clearScreen   <//> 《
 	】
 》
 function noReturn goToOutputDirectory   <//> 《
-	· |[ outputDirectoryText isEqualTo?? null ]| 做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output the generated zky/gao files: />。。40。。25。。300。。30。。mainWindow />;
+	· |[ outputDirectoryText isEqualTo?? null ]| 做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output the generated zky/gao files: />。。40。。25。。600。。30。。mainWindow />;
 	· |[ outputDirectoryEdit isEqualTo?? null ]| 做Edit</ outputDirectoryEdit。。40。。 60。。400。。30。。mainWindow />;
 	· |[ outputDirectoryBrowseButton isEqualTo?? null ]| 做Anniu</ outputDirectoryBrowseButton。。unicodeLiteral</ Browse />。。440。。60。。80。。30。。mainWindow。。null />;
 	· |[ saveOutputDirectoryButton isEqualTo?? null ]|做Anniu</ saveOutputDirectoryButton。。unicodeLiteral</ Save Output Directory />。。40。。150。。200。。50。。mainWindow。。null />;
