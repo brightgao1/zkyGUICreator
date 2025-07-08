@@ -24,7 +24,7 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	message storesItselfPlus</ unicodeLiteral</ New window name: /> />;
 	repeat|[8]| message addToEnd</ space />;
 	message storesItselfPlus</ navBarWindowNameStr /> 》》message addToEnd</ newLine />;
-	message storesItselfPlus</ unicodeLiteral</ Name of the nav bar: />;
+	message storesItselfPlus</ unicodeLiteral</ Name of the nav bar: /> />;
 	repeat|[6]| message addToEnd</ space />;
 	message storesItselfPlus</ navBarNameStr />
 	alert</ message pointer />;
