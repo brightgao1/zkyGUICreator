@@ -89,7 +89,10 @@ function noReturn createMenuButtonClicked   <//> 《
 	一》|[ c。。editMatrix atIndex</ 0 /> elementCount ]| 【
 		一》|[ r。。editMatrix elementCount ]| 【
 			unicodeString menuVariableStr stores  noExtension</ functionName />;
-			
+			menuVariableStr storesItselfPlus</ toUnicodeString</ r /> />;
+			menuVariableStr storesItselfPlus</ unicodeLiteral</ _ /> />;
+			menuVariableStr storesItselfPlus</ toUnicodeString</ c /> />;
+
 			unicodeString menuTxt; getEditText</ editMatrix atIndex</ r />atIndex</ c />。。menuTxt />;
 			·|[ menuTxt elementCount isEqualTo?? 0 ]| exitLoop;
 			·· 【
