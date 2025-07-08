@@ -58,7 +58,7 @@ function noReturn initPaths   <//> 《
 		 newFile</ ADoutputDirectoryPath />; unicodeStringToFile</ ADoutputDirectoryPath。。userHomePath />;
 	】
 	·|[ pathExists</ ADnavBarPath /> isEqualTo?? 0 ]| newFile</ ADnavBarPath />;
-	·|[ pathExists</ ADnavBarPath /> isEqualTo?? 0 ]| newFile</ ADnavBarPath />;
+	·|[ pathExists</ ADnavBarPath /> isEqualTo?? 0 ]| newFile</ ADwindowNamePath />;
 
 	fileToUnicodeString</ ADoutputDirectoryPath。。userOutputDirectory />;
 	
