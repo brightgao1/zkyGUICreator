@@ -38,3 +38,4 @@ function noReturn createMenuButtonClicked   <//>;
 
 function noReturn saveOutputDirectoryButtonClicked<//>;
 function noReturn initWindowMenuNames   <//>;
+function returns variable getFormText   <//>;
