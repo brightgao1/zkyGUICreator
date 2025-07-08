@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-53-32.txt', LF will be replaced by CRLF the next time Git touches it
+[master 9b41dff7] BrightEditor autopush 04:53:32 7/8/2025 CST
+ 21 files changed, 64 insertions(+), 8 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-53-32.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-28__782__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-28__883__W
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-29__367__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-29__471__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-30__207__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-30__31__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-30__535__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-30__592__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-30__760__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-30__791__W
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-31__111__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-31__280__W
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-31__32__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-31__776__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-31__903__W
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-32__118__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-32__55__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-32__656__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-53-33__125__Backspace
+To https://github.com/brightgao1/zkyGUICreator.git
+   fe3ad8b4..9b41dff7  master -> master
