@@ -1,0 +1,43 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     05:54:09 , 7/6/2,025
+
+File author:              Bright Gao
+
+File name when created:   outputDirectory.zky
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+ 	  加 all.gao;
+
+changeable windowPointer navBarWindowNameEdit…… navBarNameEdit;
+unicodeString navBarWindowNameStr…… navBarNameStr;
+
+function noReturn saveOutputDirectoryButtonClicked<//> 《
+	getEditText</ outputDirectoryEdit。。userOutputDirectory />;
+	getEditText</ navBarWindowNameEdit。。navBarWindowNameStr />;
+	getEditText</ navBarNameEdit。。navBarNameStr />;
+	unicodeStringToFile</ ADoutputDirectoryPath。。userOutputDirectory />;
+	unicodeStringToFile</ 
+	
+	unicodeString message stores unicodeLiteral</ Successfully saved! />;
+	repeat |[2]| message addToEnd</ newLine />;
+	message storesItselfPlus</ unicodeLiteral</ Your new output directory: /> />;
+	repeat |[2]| message addToEnd</ space />;
+	message storesItselfPlus</ userOutputDirectory /> 》》message addToEnd</ newLine />;
+	message storesItselfPlus</ unicodeLiteral</ New window name: /> />;
+	repeat|[8]| message addToEnd</ space />;
+	message storesItselfPlus</ navBarWindowNameStr /> 》》message addToEnd</ newLine />;
+	message storesItselfPlus</ unicodeLiteral</ Name of the nav bar: /> />;
+	repeat|[6]| message addToEnd</ space />;
+	message storesItselfPlus</ navBarNameStr />
+	alert</ message pointer />;
+》
+function noReturn initWindowMenuNames   <//>《
+	做Edit</ navBarWindowNameEdit。。500。。60。。300。。30。。mainWindow />;
+	做Edit</ navBarNameEdit。。500。。300。。250。。30。。mainWindow />;
+	
+》
