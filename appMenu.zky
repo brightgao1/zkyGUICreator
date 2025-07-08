@@ -12,6 +12,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
 changeable unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
 changeable unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory;
+changeable unicodeString 
 
 function noReturn initAppMenu   <//>  《
 	repeat|[3]| fileMenuStr addToEnd</ space />;
