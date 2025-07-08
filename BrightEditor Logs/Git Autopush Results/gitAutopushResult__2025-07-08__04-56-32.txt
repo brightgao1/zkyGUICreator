@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-56-27.txt', LF will be replaced by CRLF the next time Git touches it
+[master c4e145e4] BrightEditor autopush 04:56:27 7/8/2025 CST
+ 21 files changed, 61 insertions(+), 8 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-56-27.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-23__276__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-23__413__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-23__608__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-23__894__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-24__100__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-24__17__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-24__206__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-24__663__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-25__551__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-25__621__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-25__698__V
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-25__782__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-26__357__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-26__43__B
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-26__490__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-26__762__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-26__836__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-28__185__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-56-28__279__A
+To https://github.com/brightgao1/zkyGUICreator.git
+   13d3ea5c..c4e145e4  master -> master
