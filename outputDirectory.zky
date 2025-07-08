@@ -10,7 +10,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator    
 
  	  加 all.gao;
 
-changeable windowPointer navBarWindowName…… navBarName;
+changeable windowPointer navBarWindowNameEdit…… navBarNameEdit;
 
 function noReturn saveOutputDirectoryButtonClicked<//> 《
 	getEditText</ outputDirectoryEdit。。userOutputDirectory />;
