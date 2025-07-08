@@ -23,7 +23,7 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	message storesItselfPlus</ userOutputDirectory /> 》》message addToEnd</ newLine />;
 	message storesItselfPlus</ New window name: />;
 	repeat|[8]| message addToEnd</ space />;
-	message storesItselfPlus</ 
+	message storesItselfPlus</ navBarWindowNameStr />
 	alert</ message pointer />;
 》
 function noReturn initWindowMenuNames   <//>《
