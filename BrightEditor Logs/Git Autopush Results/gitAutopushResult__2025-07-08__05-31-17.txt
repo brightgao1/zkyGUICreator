@@ -1,0 +1,28 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__05-31-12.txt', LF will be replaced by CRLF the next time Git touches it
+[master 27c0c9a7] BrightEditor autopush 05:31:12 7/8/2025 CST
+ 29 files changed, 412 insertions(+), 14 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__05-31-12.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-03__708__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-03__792__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-04__205__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-04__268__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-04__27__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-04__620__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-04__679__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-05__13__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-05__140__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-05__324__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-05__468__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-05__862__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-06__356__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-06__475__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-06__4__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__05-31-07__246__F5
+ create mode 100644 zkyBackups/2025-07-08__05-31-11__all.gao
+ create mode 100644 zkyBackups/2025-07-08__05-31-11__appMenu.zky
+ create mode 100644 zkyBackups/2025-07-08__05-31-11__goTo.zky
+ create mode 100644 zkyBackups/2025-07-08__05-31-11__main.zky
+ create mode 100644 zkyBackups/2025-07-08__05-31-11__outputDirectory.zky
+ create mode 100644 zkyRelease/tmp.exe
+To https://github.com/brightgao1/zkyGUICreator.git
+   39b305e5..27c0c9a7  master -> master
