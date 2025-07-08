@@ -63,6 +63,7 @@ function noReturn initPaths   <//> 《
 	·|[ pathExists</ ADwindowNamePath /> isEqualTo?? 0 ]| newFile</ ADwindowNamePath />;
 	
 	fileToUnicodeString</ ADoutputDirectoryPath。。userOutputDirectory />;
-	fileToUnicodeString</ ADnavBarNamePath。。
+	fileToUnicodeString</ ADnavBarNamePath。。navBarNameStr />;
+	fileToUnicodeString</ 
 	
 》
