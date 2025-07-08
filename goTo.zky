@@ -101,7 +101,7 @@ function noReturn createMenuButtonClicked   <//> 《
 			】
 		】 
 	】
-	
+	repeat |[
 	res storesItselfPlus</ unicodeLiteral</ \u300B /> />;
 	alert</ res pointer />;
 》
