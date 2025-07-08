@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-41-22.txt', LF will be replaced by CRLF the next time Git touches it
+[master 8ab20314] BrightEditor autopush 04:41:22 7/8/2025 CST
+ 23 files changed, 65 insertions(+), 15 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-41-22.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-18__349__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-18__421__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-20__212__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-20__284__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-20__389__V
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-20__732__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-20__868__B
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-20__989__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__230__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__285__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__405__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__493__M
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__591__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__68__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__766__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-21__894__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-22__117__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-22__196__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-22__296__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-41-23__157__Ctrl
+To https://github.com/brightgao1/zkyGUICreator.git
+   0c31e001..8ab20314  master -> master
