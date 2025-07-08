@@ -1,0 +1,29 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-08-07.txt', LF will be replaced by CRLF the next time Git touches it
+[master f5f8e51a] BrightEditor autopush 04:08:07 7/8/2025 CST
+ 30 files changed, 410 insertions(+), 17 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-08-07.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__168__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__32__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__422__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__525__P
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__577__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__657__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__696__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__744__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__850__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-58__921__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-59__0__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-59__283__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-59__362__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-59__569__;
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-59__649__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-07-59__737__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-08-00__361__F5
+ create mode 100644 zkyBackups/2025-07-08__04-08-05__all.gao
+ create mode 100644 zkyBackups/2025-07-08__04-08-05__appMenu.zky
+ create mode 100644 zkyBackups/2025-07-08__04-08-05__goTo.zky
+ create mode 100644 zkyBackups/2025-07-08__04-08-05__main.zky
+ create mode 100644 zkyBackups/2025-07-08__04-08-05__outputDirectory.zky
+ create mode 100644 zkyRelease/tmp.exe
+To https://github.com/brightgao1/zkyGUICreator.git
+   29026f20..f5f8e51a  master -> master
