@@ -1,0 +1,70 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     07:07:10 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   appMenu.zky
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+ 
+											加 all.gao;
+
+changeable unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
+changeable unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory;
+changeable unicodeString ADwindowNamePath…… ADnavBarNamePath;
+
+function noReturn initAppMenu   <//>  《
+	repeat|[3]| fileMenuStr addToEnd</ space />;
+	repeat|[4]| fileMenuStr addToEnd</ space /> 》》menuCreatorMenuStr addToEnd</ space /> 》》guiCreatorMenuStr addToEnd</ space />;
+	fileMenuStr storesItselfPlus</ unicodeLiteral</ file.. /> />》》menuCreatorMenuStr storesItselfPlus</ unicodeLiteral</ Create Nav Bar.. /> />;
+	guiCreatorMenuStr storesItselfPlus</ unicodeLiteral</ Create GUI.. /> />;
+	repeat|[4]| fileMenuStr addToEnd</ space /> 》》menuCreatorMenuStr addToEnd</ space /> 》》guiCreatorMenuStr addToEnd</ space />;
+	 
+	addDropdownMenu</ mainMenu。。fileMenu。。fileMenuStr />;
+	addDropdownMenu</ mainMenu。。menuCreatorMenu。。menuCreatorMenuStr />;
+	addDropdownMenu</ mainMenu。。guiCreatorMenu。。guiCreatorMenuStr />;
+	
+	addStringMenu</ fileMenu。。500。。unicodeLiteral</ Set Output Directory /> />;
+	addStringMenu</ menuCreatorMenu。。1000。。unicodeLiteral</ Create zky Navigation Bar />/>;
+	addStringMenu</ menuCreatorMenu。。1005。。unicodeLiteral</ a /> />;
+	addStringMenu</ guiCreatorMenu。。2000。。unicodeLiteral</ aaa /> />;
+	
+	SetMenu</ mainWindow。。mainMenu />;	
+》
+function returns unicodeString reverse   </ unicodeString str /> 《
+	positiveInteger64 left stores 0…… right stores ((str elementCount) minus 1);
+	口 |[ left isLessThan right ]| 【
+		wideCharacter tmp stores str atIndex</ left />;
+		str atIndex</ left /> stores str atIndex</ right/>;
+		str atIndex</ right /> stores tmp;
+		left storesItselfPlus</ 1 /> 》》right storesItselfMinus</ 1 />;
+	】
+	一一 str;
+》
+function noReturn initPaths   <//> 《
+	getAppDataPath</ appDataPath /> 》》appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
+	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</ \\outputDirectory.txt />;
+	ADnavBarNamePath stores appDataPath plus unicodeLiteral</ \\navBarName.txt />;
+	ADwindowNamePath stores appDataPath plus unicodeLiteral</ \\windowName.txt />;
+	positiveInteger16 backslashesSeen stores 0; unicodeString userHomePath;
+	《一 |[ i。。appDataPath elementCount ]| 【
+		· |[ appDataPath atIndex</ i /> isEqualTo?? '\\' ]| backslashesSeen storesItselfPlus</ 1 />;
+		· |[ backslashesSeen isEqualTo?? 2 ]| goToNextIteration; 
+		· |[ backslashesSeen isGreaterThan?? 2 ]| userHomePath addToEnd</ appDataPath atIndex</ i /> />;
+	】
+	userHomePath stores reverse</ userHomePath /> 》》userHomePath removeFromEnd;
+	
+	·|[ pathExists</ appDataPath /> isEqualTo?? [! binary !]0 ]| newDirectory</ appDataPath />;
+	·|[ pathExists</ ADoutputDirectoryPath /> isEqualTo?? [! binary !]0 ]|【
+		 newFile</ ADoutputDirectoryPath />; unicodeStringToFile</ ADoutputDirectoryPath。。userHomePath />;
+	】
+	·|[ pathExists</ ADnavBarNamePath /> isEqualTo?? 0 ]| newFile</ ADnavBarNamePath />;
+	·|[ pathExists</ ADwindowNamePath /> isEqualTo?? 0 ]| newFile</ ADwindowNamePath />;
+	
+	fileToUnicodeString</ ADoutputDirectoryPath。。userOutputDirectory />;
+	
+》
