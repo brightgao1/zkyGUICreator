@@ -46,6 +46,7 @@ function noReturn initPaths   <//> 《
 	getAppDataPath</ appDataPath /> 》》appDataPath storesItselfPlus</ unicodeLiteral</ \\zkyGUICreator /> />;
 	ADoutputDirectoryPath stores appDataPath plus unicodeLiteral</ \\outputDirectory.txt />;
 	ADnavBarNamePath stores appDataPath plus unicodeLiteral</ \\navBarName.txt />;
+	ADwindowNamePath stores appDataPath plus unicodeLiteral</ \\
 	positiveInteger16 backslashesSeen stores 0; unicodeString userHomePath;
 	《一 |[ i。。appDataPath elementCount ]| 【
 		· |[ appDataPath atIndex</ i /> isEqualTo?? '\\' ]| backslashesSeen storesItselfPlus</ 1 />;
