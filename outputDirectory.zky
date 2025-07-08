@@ -24,7 +24,7 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	alert</ message pointer />;
 》
 function noReturn initWindowMenuNames   <//>《
-	做Edit</ navBarWindowNameEdit。。500。。40。。300。。30。。mainWindow />;
+	做Edit</ navBarWindowNameEdit。。500。。60。。300。。30。。mainWindow />;
 	做Edit</ navBarNameEdit。。500。。300。。300。。30。。mainWindow />;
 	
 》
