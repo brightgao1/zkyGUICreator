@@ -27,7 +27,7 @@ function noReturn clearScreen   <//> 《
 	】
 》
 function noReturn goToOutputDirectory   <//> 《
-	unicodeString 
+	unicodeString txt stores 
 	· |[ outputDirectoryText isEqualTo?? null ]| 做Text</ outputDirectoryText。。unicodeLiteral</ Directory to output the generated zky/gao files: />。。40。。25。。600。。30。。mainWindow />;
 	· |[ outputDirectoryEdit isEqualTo?? null ]| 做Edit</ outputDirectoryEdit。。40。。 60。。300。。30。。mainWindow />;
 	· |[ outputDirectoryBrowseButton isEqualTo?? null ]| 做Anniu</ outputDirectoryBrowseButton。。unicodeLiteral</ Browse />。。370。。60。。80。。30。。mainWindow。。null />;
