@@ -31,8 +31,6 @@ function noReturn goToOutputDirectory   <//> 《
 	· |[ outputDirectoryBrowseButton isEqualTo?? null ]| 做Anniu</ outputDirectoryBrowseButton。。unicodeLiteral</ Browse />。。370。。60。。80。。30。。mainWindow。。null />;
 	· |[ saveOutputDirectoryButton isEqualTo?? null ]|做Anniu</ saveOutputDirectoryButton。。unicodeLiteral</ Save Output Directory />。。40。。150。。200。。50。。mainWindow。。null />;
 	renameWindow</ outputDirectoryEdit。。userOutputDirectory pointer />;
-	renameWindow</ navBarNameEdit。。navBarNameStr pointer />;
-	renameWindow</ navBarWindowNameEdit。。navBarWindowNameStr pointer />;
 	show</ outputDirectoryText /> 》》show</ outputDirectoryEdit /> 》》show</ outputDirectoryBrowseButton /> 》》show</ saveOutputDirectoryButton />;
 	initWindowMenuNames<//>;
 》
