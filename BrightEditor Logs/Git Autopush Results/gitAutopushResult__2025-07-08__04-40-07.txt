@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-40-02.txt', LF will be replaced by CRLF the next time Git touches it
+[master 16f26b55] BrightEditor autopush 04:40:02 7/8/2025 CST
+ 21 files changed, 45 insertions(+), 4 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-08__04-40-02.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-39-59__575__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-39-59__624__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-39-59__833__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__338__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__367__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__399__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__431__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__478__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__507__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__538__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__570__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__600__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__633__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__663__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-00__679__6
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-02__584__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-02__681__6
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-02__888__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-08__04-40-03__35__Space
+To https://github.com/brightgao1/zkyGUICreator.git
+   8c3e82b6..16f26b55  master -> master
