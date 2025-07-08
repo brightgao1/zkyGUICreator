@@ -20,4 +20,6 @@ function noReturn saveOutputDirectoryButtonClicked<//> 《
 	message storesItselfPlus</ userOutputDirectory />;
 	alert</ message pointer />;
 》
-function noReturn initWindowName
+function noReturn initWindowMenuNames   <//>《
+	
+》
