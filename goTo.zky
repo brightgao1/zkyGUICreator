@@ -137,7 +137,7 @@ function noReturn createMenuButtonClicked   <//> 《
 	】
 	·|[(navBarWindowNameStr atIndex</ navBarWindowNameStr elementCount minus 1 />) isEqualTo?? newLine]| navBarWindowNameStr removeFromEnd;
 	·|[(navBarNameStr atIndex</ navBarNameStr elementCount minus 1 />) isEqualTo?? newLine]| navBarNameStr removeFromEnd;
-
+	
 	res storesItselfPlus</ unicodeLiteral</ SetMenu< />/>》》res addToEnd</ '/' />;
 	res storesItselfPlus</ navBarWindowNameStr />;
 	repeat|[2]| res storesItselfPlus</ unicodeLiteral</ \u3002 />/>;
