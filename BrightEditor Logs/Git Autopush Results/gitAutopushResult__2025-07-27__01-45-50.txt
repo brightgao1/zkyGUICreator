@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__01-45-45.txt', LF will be replaced by CRLF the next time Git touches it
+[master 3fdbf351] BrightEditor autopush 01:45:45 7/27/2025 CST
+ 21 files changed, 33 insertions(+), 5 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__01-45-45.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-41__470__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-41__650__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-41__907__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-42__531__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-42__715__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-42__850__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-43__218__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-43__386__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-43__538__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-43__978__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-44__234__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-44__618__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-44__913__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-45__278__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-45__418__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-45__791__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-45__83__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-45__965__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__01-45-46__13__Down
+To https://github.com/brightgao1/zkyGUICreator.git
+   dad1569e..3fdbf351  master -> master

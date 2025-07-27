@@ -112,13 +112,13 @@ function noReturn createMenuButtonClicked   <//> 《
 			】
 			·· 【
 				口 |[ menuTxt atIndex</ (menuTxt elementCount) minus 1 /> isEqualTo?? space ]| menuTxt removeFromEnd;
-								·· 【
-					
-				】
-				res storesItselfPlus</ unicodeLiteral</ ; /> />;
-				res addToEnd</ newLine />;
-				repeat|[4]| res addToEnd</ space />;
+				
+
+				
 			】
+			res storesItselfPlus</ unicodeLiteral</ ; /> />;
+			res addToEnd</ newLine />;
+			repeat|[4]| res addToEnd</ space />;
 		】 
 	】
 	repeat |[4]| res removeFromEnd;
