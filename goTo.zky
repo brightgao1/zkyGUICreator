@@ -136,7 +136,7 @@ function noReturn createMenuButtonClicked   <//> 《
 			】		
 		】 
 	】
-	res storesItselfPlus</ unicodeLiteral</ SetMenu< />》》res storesItselfPlus</ / />;
+	res storesItselfPlus</ unicodeLiteral</ SetMenu< />》》res addToEnd</ '/' />;
 	res storesItselfPlus</ 
 	res storesItselfPlus</ unicodeLiteral</ \u300B /> />;
 	alert</ res pointer />;
