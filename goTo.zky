@@ -47,7 +47,9 @@ function noReturn goToMenuCreator   <//> 《
 			·· MoveWindow</ box。。currX。。currY。。120。。25。。0 /> 》》currX storesItselfPlus</ 125 />;
 			show</ box />;
 		】
-		currY storesItselfPlus</ 30 /> 》》currX stores 10;
+		·|[r isEqualTo?? 0]| currY storesItselfPlus</ 45 />;
+		·· currY storesItselfPlus</ 30 />;
+		currX stores 10;
 	】
 》
 function noReturn goToGuiCreator   <//> 《
