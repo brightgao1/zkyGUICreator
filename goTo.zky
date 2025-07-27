@@ -98,7 +98,7 @@ function noReturn createMenuButtonClicked   <//> 《
 
 			unicodeString menuTxt; getEditText</ editMatrix atIndex</ r />atIndex</ c />。。menuTxt />;
 			·|[ menuTxt elementCount isEqualTo?? 0 ]| exitLoop;
-			···|[menu
+			···|[menuTxt isEqualTo?? unicodeLiteral</ 
 			·· 【
 				口 |[ menuTxt atIndex</ (menuTxt elementCount) minus 1 /> isEqualTo?? space ]| menuTxt removeFromEnd;
 				· |[ menuTxt isEqualTo?? unicodeLiteral</ __LINE__ /> ]| 【
