@@ -100,6 +100,7 @@ function noReturn createMenuButtonClicked   <//> 《
 			·|[ menuTxt elementCount isEqualTo?? 0 ]| exitLoop;
 			···|[r isEqualTo?? 0 ]| 【
 				res storesItselfPlus</ unicodeLiteral</ \u0D9E />/>;
+				
 
 				res storesItselfPlus</ unicodeLiteral</ ; /> />;
 				res addToEnd</ newLine />;
