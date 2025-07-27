@@ -43,6 +43,7 @@ function noReturn goToMenuCreator   <//> 《
 	一》|[r。。editMatrix elementCount]| 【
 		 一》|[c。。(editMatrix atIndex</ r />) elementCount ]| 【
 			variable box stores (editMatrix atIndex</ r />) atIndex</ c />;
+			·|[r isEqualTo?? 0 ]| 
 			MoveWindow</ box。。currX。。currY。。120。。25。。0 /> 》》currX storesItselfPlus</ 125 />;
 			show</ box />;
 		】
@@ -103,9 +104,10 @@ function noReturn createMenuButtonClicked   <//> 《
 				res storesItselfPlus</ unicodeLiteral</ < /> /> 》》res storesItselfPlus</ unicodeLiteral</ / /> />;
 				res storesItselfPlus</ menuVariableStr />;
 				repeat|[2]| res storesItselfPlus</ unicodeLiteral</。/>/>;
-								
+				
 
 				repeat|[2]| res storesItselfPlus</ unicodeLiteral</。/>/>;
+				res storesItselfPlus</ unicodeLiteral</ / /> /> 》》res storesItselfPlus</ unicodeLiteral</ > /> />;
 				res storesItselfPlus</ unicodeLiteral</ ; /> />;
 				res addToEnd</ newLine />;
 				repeat|[4]| res addToEnd</ space />;
@@ -116,8 +118,7 @@ function noReturn createMenuButtonClicked   <//> 《
 				res storesItselfPlus</ unicodeLiteral</ < /> /> 》》res storesItselfPlus</ unicodeLiteral</ / /> />;
 				res storesItselfPlus</ menuVariableStr />;
 				
-				res storesItselfPlus</ unicodeLiteral</ / /> />;
-				res storesItselfPlus</ unicodeLiteral</ > /> />;
+				res storesItselfPlus</ unicodeLiteral</ / /> /> 》》res storesItselfPlus</ unicodeLiteral</ > /> />;
 				res storesItselfPlus</ unicodeLiteral</ ; /> />;
 				res addToEnd</ newLine />;
 				repeat|[4]| res addToEnd</ space />;
