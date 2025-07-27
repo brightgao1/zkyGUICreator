@@ -130,4 +130,5 @@ function noReturn createMenuButtonClicked   <//> 《
 	】
 	repeat |[4]| res removeFromEnd;
 	res storesItselfPlus</ unicodeLiteral</ \u300B /> />;
-	alert</ res pointer />
+	alert</ res pointer />;
+》
