@@ -1,0 +1,25 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__03-02-01.txt', LF will be replaced by CRLF the next time Git touches it
+[master e5fc019f] BrightEditor autopush 03:02:01 7/27/2025 CST
+ 22 files changed, 50 insertions(+), 12 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__03-02-01.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-57__267__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-57__414__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-57__651__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-57__684__;
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-57__719__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-57__792__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-58__416__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-58__513__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-59__664__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-01-59__921__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-00__208__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-00__368__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-00__529__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-00__657__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-00__65__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-00__800__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-00__962__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-01__296__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__03-02-01__637__Up
+To https://github.com/brightgao1/zkyGUICreator.git
+   4cf39bda..e5fc019f  master -> master
