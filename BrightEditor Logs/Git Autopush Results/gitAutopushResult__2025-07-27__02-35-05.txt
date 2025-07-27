@@ -1,0 +1,37 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-35-00.txt', LF will be replaced by CRLF the next time Git touches it
+[master 2966e35a] BrightEditor autopush 02:35:00 7/27/2025 CST
+ 33 files changed, 40 insertions(+), 2 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-35-00.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-56__745__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-56__778__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__43__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__549__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__581__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__613__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__644__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__677__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__724__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__755__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__786__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__817__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__848__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__878__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__912__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__943__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-58__975__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__115__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__148__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__185__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__211__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__241__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__272__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__41__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__70__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__756__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-34-59__8__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-35-00__100__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-35-00__602__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-35-00__645__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-35-01__331__Up
+To https://github.com/brightgao1/zkyGUICreator.git
+   6cb6d780..2966e35a  master -> master
