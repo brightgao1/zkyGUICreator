@@ -1,0 +1,10 @@
+[master 0a7bff41] BrightEditor autopush 02:07:30 7/27/2025 CST
+ 10 files changed, 392 insertions(+), 1 deletion(-)
+ create mode 100644 zkyBackups/2025-07-27__02-07-30__all.gao
+ create mode 100644 zkyBackups/2025-07-27__02-07-30__appMenu.zky
+ create mode 100644 zkyBackups/2025-07-27__02-07-30__goTo.zky
+ create mode 100644 zkyBackups/2025-07-27__02-07-30__main.zky
+ create mode 100644 zkyBackups/2025-07-27__02-07-30__outputDirectory.zky
+ create mode 100644 zkyRelease/tmp.exe
+To https://github.com/brightgao1/zkyGUICreator.git
+   c7782dd0..0a7bff41  master -> master
