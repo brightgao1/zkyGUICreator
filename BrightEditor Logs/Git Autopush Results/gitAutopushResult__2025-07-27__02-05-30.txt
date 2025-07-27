@@ -1,0 +1,24 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-05-20.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-05-25.txt', LF will be replaced by CRLF the next time Git touches it
+[master d1ca14be] BrightEditor autopush 02:05:25 7/27/2025 CST
+ 19 files changed, 36 insertions(+), 10 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-05-20.txt
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-05-25.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-22__274__2
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-22__345__5
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-22__582__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-22__659__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-22__818__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-22__941__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-22__985__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-23__109__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-23__779__0
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-24__411__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-24__498__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-25__212__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-25__331__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-25__530__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-25__626__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-05-25__82__Backspace
+To https://github.com/brightgao1/zkyGUICreator.git
+   4ecd5a03..d1ca14be  master -> master
