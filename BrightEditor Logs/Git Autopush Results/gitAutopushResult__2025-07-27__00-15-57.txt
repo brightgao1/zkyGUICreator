@@ -1,0 +1,13 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__00-15-47.txt', LF will be replaced by CRLF the next time Git touches it
+error: short read while indexing BrightEditor Logs/keypressCounts.txt
+[master 279973f6] BrightEditor autopush 00:15:47 7/27/2025 CST
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__00-15-47.txt
+To https://github.com/brightgao1/zkyGUICreator.git
+ ! [rejected]          master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/brightgao1/zkyGUICreator.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
