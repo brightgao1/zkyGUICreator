@@ -99,7 +99,7 @@ function noReturn createMenuButtonClicked   <//> 《
 			unicodeString menuTxt; getEditText</ editMatrix atIndex</ r />atIndex</ c />。。menuTxt />;
 			·|[ menuTxt elementCount isEqualTo?? 0 ]| exitLoop;
 			···|[r isEqualTo?? 0 ]| 【
-				res storesItselfPlus</ unicodeLiteral</ \u0D9E />/>;
+				res storesItselfPlus</ unicodeLiteral</ \u0D9E />/> 》》res storesItselfPlus</ unicodeLiteral</ \u0DBA />/>;
 				
 
 				res storesItselfPlus</ unicodeLiteral</ ; /> />;
@@ -130,5 +130,4 @@ function noReturn createMenuButtonClicked   <//> 《
 	】
 	repeat |[4]| res removeFromEnd;
 	res storesItselfPlus</ unicodeLiteral</ \u300B /> />;
-	alert</ res pointer />;
-》
+	alert</ res pointer />
