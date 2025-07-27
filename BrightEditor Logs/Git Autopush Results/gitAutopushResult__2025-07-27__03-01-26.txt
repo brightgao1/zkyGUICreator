@@ -1,0 +1,7 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__03-01-21.txt', LF will be replaced by CRLF the next time Git touches it
+[master fb2320a3] BrightEditor autopush 03:01:21 7/27/2025 CST
+ 3 files changed, 7 insertions(+), 1 deletion(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__03-01-21.txt
+ delete mode 100644 zkyRelease/tmp.exe
+To https://github.com/brightgao1/zkyGUICreator.git
+   84cfb440..fb2320a3  master -> master
