@@ -102,8 +102,10 @@ function noReturn createMenuButtonClicked   <//> 《
 				res storesItselfPlus</ unicodeLiteral</ \u0D9E />/> 》》res storesItselfPlus</ unicodeLiteral</ \u0DBA />/>;
 				res storesItselfPlus</ unicodeLiteral</ < /> /> 》》res storesItselfPlus</ unicodeLiteral</ / /> />;
 				res storesItselfPlus</ menuVariableStr />;
-				repeat|[2]| 
+				repeat|[2]| res storesItselfPlus</ unicodeLiteral</。/>/>;
+								
 
+				repeat|[2]| res storesItselfPlus</ unicodeLiteral</。/>/>;
 				res storesItselfPlus</ unicodeLiteral</ ; /> />;
 				res addToEnd</ newLine />;
 				repeat|[4]| res addToEnd</ space />;
