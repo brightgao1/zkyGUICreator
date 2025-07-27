@@ -1,0 +1,26 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-55-11.txt', LF will be replaced by CRLF the next time Git touches it
+[master 50c300af] BrightEditor autopush 02:55:11 7/27/2025 CST
+ 22 files changed, 67 insertions(+), 17 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__02-55-11.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-06__942__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__13__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__210__U
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__444__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__458__P
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__581__O
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__652__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__684__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__734__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__854__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-07__926__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-08__180__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-09__277__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-09__733__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-09__845__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-09__973__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-10__254__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-10__341__
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-11__302__S
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__02-55-11__83__Ctrl
+To https://github.com/brightgao1/zkyGUICreator.git
+   e9957ec3..50c300af  master -> master
