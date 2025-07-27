@@ -121,11 +121,6 @@ function noReturn createMenuButtonClicked   <//> 《
 				res storesItselfPlus</ unicodeLiteral</ < /> /> 》》res storesItselfPlus</ unicodeLiteral</ / /> />;
 				res storesItselfPlus</ menuVariableStr />;
 				
-				res storesItselfPlus</ unicodeLiteral</ / /> /> 》》res storesItselfPlus</ unicodeLiteral</ > /> />;
-				res storesItselfPlus</ unicodeLiteral</ ; /> />;
-				res addToEnd</ newLine />;
-				repeat|[4]| res addToEnd</ space />;
-
 					
 			】
 			·· 【
@@ -133,7 +128,12 @@ function noReturn createMenuButtonClicked   <//> 《
 				
 
 				
-			】		
+			】	
+			res storesItselfPlus</ unicodeLiteral</ / /> /> 》》res storesItselfPlus</ unicodeLiteral</ > /> />;
+			res storesItselfPlus</ unicodeLiteral</ ; /> />;
+			res addToEnd</ newLine />;
+			repeat|[4]| res addToEnd</ space />;
+	
 		】 
 	】
 	·|[(navBarWindowNameStr atIndex</ navBarWindowNameStr elementCount minus 1 />) isEqualTo?? newLine]| navBarWindowNameStr removeFromEnd;
