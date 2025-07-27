@@ -1,0 +1,23 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__00-16-07.txt', LF will be replaced by CRLF the next time Git touches it
+[master e92113f7] BrightEditor autopush 00:16:07 7/27/2025 CST
+ 14 files changed, 34 insertions(+), 8 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-07-27__00-16-07.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-01__975__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-03__577__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-03__97__Up
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-04__913__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-05__121__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-05__890__Right
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-06__755__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-06__929__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-07__289__Down
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-07__910__Ctrl
+ create mode 100644 BrightEditor Logs/keypresses/2025-07-27__00-16-08__93__S
+To https://github.com/brightgao1/zkyGUICreator.git
+ ! [rejected]          master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/brightgao1/zkyGUICreator.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
