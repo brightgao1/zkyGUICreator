@@ -1,0 +1,44 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     06:58:33 , 7/4/2,025
+
+File author:              Bright Gao
+
+File name when created:   all.gao
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\zkyGUICreator        ༽
+
+
+
+global windowPointer mainWindow…… createMenuButton…… outputDirectoryEdit……  outputDirectoryBrowseButton…… saveOutputDirectoryButton;
+global windowPointer navBarWindowNameEdit…… navBarNameEdit;
+global windowPointer outputDirectoryText;
+global menuPointer mainMenu…… menuCreatorMenu…… guiCreatorMenu…… fileMenu;
+global instancePointer mainInstance;
+global rectangle appRectangle;
+
+global unicodeString fileMenuStr…… menuCreatorMenuStr…… guiCreatorMenuStr;
+global unicodeString appDataPath…… ADoutputDirectoryPath…… userOutputDirectory;
+global unicodeString ADwindowNamePath…… ADnavBarNamePath;
+global unicodeString openComment…… closeComment;
+global unicodeString navBarWindowNameStr…… navBarNameStr;
+
+function noReturn initAppMenu   <//>; function noReturn initPaths   <//>;
+function returns unicodeString reverse   </unicodeString str />;
+
+function noReturn initApp   <//>;
+windowHandler WndProc   </ changeable windowPointer window。。nonMutable positiveInteger32 message。。changeable positiveInteger32Pointer parameter1。。changeable integer64Pointer parameter2 />;
+function returns variable MyRegisterClass   </ instancePointer in />;
+function returns variable InitInstance   </ changeable instancePointer in。。immutable integer32 howToShow />;
+win32Entry   </ nonConstant instancePointer in。。changeable instancePointer prev。。nonMutable unicodeStringPointer cmdStr。。constant integer32 howToShow/> ;
+
+function noReturn clearScreen   <//>;
+function noReturn initEditMatrix   <//>;
+function noReturn goToOutputDirectory   <//>; function noReturn goToMenuCreator   <//>; function noReturn goToGuiCreator   <//>;
+function noReturn createMenuButtonClicked   <//>;
+
+function noReturn saveOutputDirectoryButtonClicked<//>;
+function noReturn initWindowMenuNames   <//>;

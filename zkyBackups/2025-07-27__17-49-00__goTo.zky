@@ -1,3 +1,6 @@
+༼        The file name is the date & time zkyCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.zky/gao        ༽
 ༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
 
 Creation time & date:     14:17:30 , 7/4/2,025
@@ -16,7 +19,7 @@ changeable windowPointer outputDirectoryText…… outputDirectoryBrowseButton�
 
 function noReturn initEditMatrix   <//> 《
 	一》 |[r。。editMatrix elementCount ]| 一》 |[ c。。(editMatrix atIndex</ r />) elementCount ]| (editMatrix atIndex</ r />) atIndex</ c /> stores null;
-》 
+》
 function noReturn clearScreen   <//> 《
 	hide</ createMenuButton /> 》》hide</ outputDirectoryText /> 》》hide</ outputDirectoryEdit />;
 	hide</ outputDirectoryBrowseButton /> 》》hide</ saveOutputDirectoryButton />;
